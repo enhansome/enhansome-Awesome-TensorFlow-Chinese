@@ -1,0 +1,888 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "安装教程"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "入门教程"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "实战项目"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "官方实战项目"
+    },
+    {
+      "description": "Deep Learning http://www.tensorflownews.com/2017/08/29/deep-learning-an-mit-press-book\nDeep Learning 中文翻译 http://www.tensorflownews.com/2017/08/29/deep-learning-book-chinese-translation/",
+      "items": [],
+      "title": "书籍（推荐）"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "社区群组"
+    },
+    {
+      "description": "522785813",
+      "items": [],
+      "title": "QQ群"
+    },
+    {
+      "description": "微信群二维码有效期太短了，我博客保持更新。\nhttp://panchuang.net/",
+      "items": [],
+      "title": "微信群"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TensorFlow Examples",
+          "description": "针对初学者的 TensorFlow 教程和代码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-26T19:46:13Z",
+            "owner": "aymericdamien",
+            "repo": "TensorFlow-Examples",
+            "stars": 43735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Effective Tensorflow",
+          "description": "Tensorflow howtos and best practices. Covers the basics as well as advanced topics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-10-22T05:26:17Z",
+            "owner": "vahidk",
+            "repo": "EffectiveTensorflow",
+            "stars": 8588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorFlow Tutorial",
+          "description": "基于谷歌的 TensorFlow 框架介绍深度学习",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-08-20T07:32:57Z",
+            "owner": "nlintz",
+            "repo": "TensorFlow-Tutorials",
+            "stars": 6029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorFlow Tutorial",
+          "description": "从基础知识到有趣的 tensorflow 应用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-12-11T20:54:51Z",
+            "owner": "pkmital",
+            "repo": "tensorflow_tutorials",
+            "stars": 5670
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorFlow World",
+          "description": "Concise and ready-to-use TensorFlow tutorials with detailed documentation are provided.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-23T00:18:21Z",
+            "owner": "astorfi",
+            "repo": "TensorFlow-World",
+            "stars": 4489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Classification on time series",
+          "description": "Recurrent Neural Network classification in TensorFlow with LSTM on cellphone sensor data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-11-06T17:53:06Z",
+            "owner": "guillaume-chevalier",
+            "repo": "LSTM-Human-Activity-Recognition",
+            "stars": 3488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sungjoon's TensorFlow-101",
+          "description": "TensorFlow 教程用 Python 的 Jupyter Notebook",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-03-23T06:50:22Z",
+            "owner": "sjchoi86",
+            "repo": "Tensorflow-101",
+            "stars": 2593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Installing TensorFlow on Raspberry Pi 3",
+          "description": "TensorFlow compiled and running properly on the Raspberry Pi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-08T18:48:00Z",
+            "owner": "samjabrahams",
+            "repo": "tensorflow-on-raspberry-pi",
+            "stars": 2257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Predict time series",
+          "description": "Learn to use a seq2seq model on simple datasets as an introduction to the vast array of possibilities that this architecture offers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-25T00:33:48Z",
+            "owner": "guillaume-chevalier",
+            "repo": "seq2seq-signal-prediction",
+            "stars": 1081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terry Um’s TensorFlow Exercises",
+          "description": "Re-create the codes from other TensorFlow examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-05-14T16:45:45Z",
+            "owner": "terryum",
+            "repo": "TensorFlow_Exercises",
+            "stars": 612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Single Image Random Dot Stereograms",
+          "description": "SIRDS is a means to present 3D data in a 2D image. It allows for scientific data display of a waterfall type plot with no hidden lines due to perspective.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-10-25T02:23:00Z",
+            "owner": "Mazecreator",
+            "repo": "TensorFlow-SIRDS",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "教程"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "YOLO TensorFlow ++",
+          "description": "TensorFlow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-23T23:26:26Z",
+            "owner": "thtrieu",
+            "repo": "darkflow",
+            "stars": 6140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sentence Classification with CNN",
+          "description": "TensorFlow implementation of \"Convolutional Neural Networks for Sentence Classification\" with a blog post",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-15T19:15:44Z",
+            "owner": "dennybritz",
+            "repo": "cnn-text-classification-tf",
+            "stars": 5685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Style",
+          "description": "An implementation of neural style",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-18T16:29:56Z",
+            "owner": "anishathalye",
+            "repo": "neural-style",
+            "stars": 5539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wavenet",
+          "description": "This is a TensorFlow implementation of the WaveNet generative neural network architecture for audio generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-12T06:15:53Z",
+            "owner": "ibab",
+            "repo": "tensorflow-wavenet",
+            "stars": 5428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Colornet - Neural Network to colorize grayscale images",
+          "description": "Neural Network to colorize grayscale images",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-21T10:17:51Z",
+            "owner": "pavelgonchar",
+            "repo": "colornet",
+            "stars": 3554
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Style",
+          "description": "Implementation of Neural Style",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-24T19:45:09Z",
+            "owner": "cysmith",
+            "repo": "neural-style-tf",
+            "stars": 3105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chatbot",
+          "description": "Implementation of \"A neural conversational model\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-30T14:42:37Z",
+            "owner": "Conchylicultor",
+            "repo": "DeepQA",
+            "stars": 2911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DQN-tensorflow",
+          "description": "TensorFlow implementation of DeepMind's 'Human-Level Control through Deep Reinforcement Learning' with OpenAI Gym by Devsisters.com",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-18T18:36:45Z",
+            "owner": "devsisters",
+            "repo": "DQN-tensorflow",
+            "stars": 2584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lip Reading - Cross Audio-Visual Recognition using 3D Architectures in TensorFlow",
+          "description": "TensorFlow Implementation of \"Cross Audio-Visual Recognition in the Wild Using Deep Learning\" by Torfi et al.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-07T13:58:59Z",
+            "owner": "astorfi",
+            "repo": "lip-reading-deeplearning",
+            "stars": 1904
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepOSM",
+          "description": "Train TensorFlow neural nets with OpenStreetMap features and satellite imagery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-03-13T16:09:05Z",
+            "owner": "trailbehind",
+            "repo": "DeepOSM",
+            "stars": 1330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pretty Tensor",
+          "description": "Pretty Tensor provides a high level builder API",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-05-17T17:37:00Z",
+            "owner": "google",
+            "repo": "prettytensor",
+            "stars": 1227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Turing Machine in TensorFlow",
+          "description": "implementation of Neural Turing Machine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-05-18T06:31:02Z",
+            "owner": "carpedm20",
+            "repo": "NTM-tensorflow",
+            "stars": 1047
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Show, Attend and Tell",
+          "description": "Attention Based Image Caption Generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-07-28T19:46:50Z",
+            "owner": "yunjey",
+            "repo": "show-attend-and-tell",
+            "stars": 906
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Transfer Network",
+          "description": "Implementation of Unsupervised Cross-Domain Image Generation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-06-06T08:24:49Z",
+            "owner": "yunjey",
+            "repo": "domain-transfer-network",
+            "stars": 861
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3D Convolutional Neural Networks in TensorFlow",
+          "description": "Implementation of \"3D Convolutional Neural Networks for Speaker Verification application\" in TensorFlow by Torfi et al.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-03T19:12:02Z",
+            "owner": "astorfi",
+            "repo": "3D-convolutional-speaker-recognition",
+            "stars": 790
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Character-Aware Neural Language Models",
+          "description": "TensorFlow implementation of Character-Aware Neural Language Models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-07-27T11:04:42Z",
+            "owner": "carpedm20",
+            "repo": "lstm-char-cnn-tensorflow",
+            "stars": 788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CNN visualization using Tensorflow",
+          "description": "Tensorflow implementation of \"Visualizing and Understanding Convolutional Networks\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-16T07:05:13Z",
+            "owner": "infocusp",
+            "repo": "tf_cnnvis",
+            "stars": 778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generative Handwriting Demo using TensorFlow",
+          "description": "An attempt to implement the random handwriting generation portion of Alex Graves' paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-02-10T08:17:23Z",
+            "owner": "hardmaru",
+            "repo": "write-rnn-tensorflow",
+            "stars": 703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Caption Generator",
+          "description": "Implementation of \"Show and Tell\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-10-23T10:03:31Z",
+            "owner": "jazzsaxmafia",
+            "repo": "show_attend_and_tell.tensorflow",
+            "stars": 502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Caption Generator with Attention",
+          "description": "Implementation of \"Show, Attend and Tell\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-10-23T10:03:31Z",
+            "owner": "jazzsaxmafia",
+            "repo": "show_attend_and_tell.tensorflow",
+            "stars": 502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeuralArt",
+          "description": "Implementation of A Neural Algorithm of Artistic Style",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-27T11:53:35Z",
+            "owner": "ckmarkoh",
+            "repo": "neuralart_tensorflow",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorFlow White Paper Notes",
+          "description": "Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-12-18T23:07:47Z",
+            "owner": "samjabrahams",
+            "repo": "tensorflow-white-paper-notes",
+            "stars": 432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weakly_detector",
+          "description": "Implementation of \"Learning Deep Features for Discriminative Localization\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-07-29T16:58:03Z",
+            "owner": "jazzsaxmafia",
+            "repo": "Weakly_detector",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoogleNet Convolutional Neural Network Groups Movie Scenes By Setting",
+          "description": "Search, filter, and describe videos based on objects, places, and other things that appear in them",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-05-11T16:26:37Z",
+            "owner": "agermanidis",
+            "repo": "thingscoop",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "End-To-End Memory Networks",
+          "description": "Implementation of End-To-End Memory Networks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-02-17T16:46:57Z",
+            "owner": "domluna",
+            "repo": "memn2n",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HMM in TensorFlow",
+          "description": "Implementation of viterbi and forward/backward algorithms for HMM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-01-23T18:11:27Z",
+            "owner": "dwiel",
+            "repo": "tensorflow_hmm",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural machine translation between the writings of Shakespeare and modern English using TensorFlow",
+          "description": "This performs a monolingual translation, going from modern English to Shakespeare and vis-versa.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-11T00:42:28Z",
+            "owner": "tokestermw",
+            "repo": "tensorflow-shakespeare",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mnemonic Descent Method",
+          "description": "Tensorflow implementation of \"Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-05-21T17:31:33Z",
+            "owner": "trigeorgis",
+            "repo": "mdm",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Highway Network",
+          "description": "TensorFlow implementation of \"Training Very Deep Networks\" with a blog post",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-09-18T22:27:07Z",
+            "owner": "fomorians",
+            "repo": "highway-cnn",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AlexNet3D",
+          "description": "An implementations of AlexNet3D. Simple AlexNet model but with 3D convolutional layers (conv3d).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-02-09T14:33:45Z",
+            "owner": "denti",
+            "repo": "AlexNet3D",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VGAN Tensorflow",
+          "description": "Tensorflow implementation for MIT \"Generating Videos with Scene Dynamics\" by Vondrick et al.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-03-20T13:12:43Z",
+            "owner": "Singularity42",
+            "repo": "VGAN-Tensorflow",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynamic Capacity Networks",
+          "description": "Implementation of \"Dynamic Capacity Networks\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-05-03T10:29:52Z",
+            "owner": "jazzsaxmafia",
+            "repo": "dcn.tf",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "模型项目"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Magenta",
+          "description": "Research project to advance the state of the art in machine intelligence for music and art generation",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-01-06T01:17:54Z",
+            "owner": "magenta",
+            "repo": "magenta",
+            "stars": 19810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YOLO TensorFlow",
+          "description": "Implementation of 'YOLO : Real-Time Object Detection'",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-05T07:57:00Z",
+            "owner": "gliese581gg",
+            "repo": "YOLO_tensorflow",
+            "stars": 1708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-yolo",
+          "description": "Real-time object detection on Android using the YOLO network, powered by TensorFlow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-10-15T11:34:11Z",
+            "owner": "natanielruiz",
+            "repo": "android-yolo",
+            "stars": 691
+          }
+        }
+      ],
+      "title": "基于 TensorFlow 的产品"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tf.contrib.learn",
+          "description": "Simplified interface for Deep/Machine Learning (now part of TensorFlow)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T11:09:55Z",
+            "owner": "tensorflow",
+            "repo": "tensorflow",
+            "stars": 196991
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorFlow-Slim",
+          "description": "High-level library for defining models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T00:05:23Z",
+            "owner": "tensorflow",
+            "repo": "models",
+            "stars": 77660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SyntaxNet: Neural Models of Syntax",
+          "description": "A TensorFlow implementation of the models described in Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T00:05:23Z",
+            "owner": "tensorflow",
+            "repo": "models",
+            "stars": 77660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonnet",
+          "description": "Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-07T22:31:42Z",
+            "owner": "google-deepmind",
+            "repo": "sonnet",
+            "stars": 9943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tflearn",
+          "description": "Deep learning library featuring a higher-level API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-06T11:34:20Z",
+            "owner": "tflearn",
+            "repo": "tflearn",
+            "stars": 9577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tensorpack",
+          "description": "Neural Network Toolbox on TensorFlow focusing on training speed and on large datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-06T00:30:36Z",
+            "owner": "tensorpack",
+            "repo": "tensorpack",
+            "stars": 6287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "keras-js",
+          "description": "Run Keras models (tensorflow backend) in the browser, with GPU support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-15T12:11:24Z",
+            "owner": "transcranial",
+            "repo": "keras-js",
+            "stars": 4965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorFlowOnSpark",
+          "description": "initiative from Yahoo! to enable distributed TensorFlow with Apache Spark.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-10T10:34:11Z",
+            "owner": "yahoo",
+            "repo": "TensorFlowOnSpark",
+            "stars": 3846
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caffe-tensorflow",
+          "description": "Convert Caffe models to TensorFlow format",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-18T13:35:38Z",
+            "owner": "ethereon",
+            "repo": "caffe-tensorflow",
+            "stars": 2786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tensorflow.rb",
+          "description": "TensorFlow native interface for ruby using SWIG",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2022-01-10T15:41:18Z",
+            "owner": "somaticio",
+            "repo": "tensorflow.rb",
+            "stars": 832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorFrames",
+          "description": "TensorFlow binding for Apache Spark",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2024-07-30T20:59:38Z",
+            "owner": "databricks",
+            "repo": "tensorframes",
+            "stars": 744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NNFlow",
+          "description": "Simple framework allowing to read-in ROOT NTuples by converting them to a Numpy array and then use them in Google Tensorflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-24T08:14:42Z",
+            "owner": "welschma",
+            "repo": "NNFlow",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "库"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:14:44.064Z",
+    "original_repository": "fendouai/Awesome-TensorFlow-Chinese",
+    "original_repository_sha": "fe076719349c1dd15ed61ddfeb5a8fab02f2bbe8",
+    "enhanced_repository": "enhansome/enhansome-Awesome-TensorFlow-Chinese",
+    "enhanced_repository_description": null,
+    "title": "Awesome-TensorFlow-Chinese with stars"
+  }
+}
