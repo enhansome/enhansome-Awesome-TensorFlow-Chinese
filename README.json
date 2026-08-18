@@ -668,7 +668,7 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19809
+            "stars": 19808
           }
         },
         {
@@ -713,10 +713,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T10:49:14Z",
+            "last_commit": "2026-08-18T10:50:12Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 196956
+            "stars": 197022
           }
         },
         {
@@ -727,10 +727,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T02:25:39Z",
+            "last_commit": "2026-08-17T23:06:28Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652
+            "stars": 77651
           }
         },
         {
@@ -741,10 +741,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T02:25:39Z",
+            "last_commit": "2026-08-17T23:06:28Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652
+            "stars": 77651
           }
         },
         {
@@ -758,7 +758,7 @@
             "last_commit": "2026-07-07T22:31:42Z",
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9944
+            "stars": 9951
           }
         },
         {
@@ -786,7 +786,7 @@
             "last_commit": "2023-08-06T00:30:36Z",
             "owner": "tensorpack",
             "repo": "tensorpack",
-            "stars": 6286
+            "stars": 6285
           }
         },
         {
@@ -800,7 +800,7 @@
             "last_commit": "2022-06-15T12:11:24Z",
             "owner": "transcranial",
             "repo": "keras-js",
-            "stars": 4964
+            "stars": 4963
           }
         },
         {
@@ -878,7 +878,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:55:00.100Z",
+    "last_updated": "2026-08-18T10:53:23.991Z",
     "original_repository": "fendouai/Awesome-TensorFlow-Chinese",
     "original_repository_sha": "fe076719349c1dd15ed61ddfeb5a8fab02f2bbe8",
     "enhanced_repository": "enhansome/enhansome-Awesome-TensorFlow-Chinese",
