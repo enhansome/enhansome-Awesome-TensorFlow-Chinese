@@ -15,7 +15,7 @@
             "last_commit": "2024-07-26T19:46:13Z",
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43732
+            "stars": 43733
           }
         },
         {
@@ -720,10 +720,10 @@
             "archived": false,
             "id": 45717250,
             "language": "C++",
-            "last_commit": "2026-08-19T10:49:05Z",
+            "last_commit": "2026-08-19T12:06:37Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197058
+            "stars": 197061
           }
         },
         {
@@ -896,8 +896,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:52:44.095Z",
+    "last_updated": "2026-08-19T12:08:59.050Z",
     "original_repository": "fendouai/Awesome-TensorFlow-Chinese",
+    "original_repository_id": 102089807,
     "original_repository_sha": "fe076719349c1dd15ed61ddfeb5a8fab02f2bbe8",
     "enhanced_repository": "enhansome/enhansome-Awesome-TensorFlow-Chinese",
     "enhanced_repository_description": null,
