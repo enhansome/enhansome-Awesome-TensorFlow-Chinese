@@ -15,7 +15,7 @@
             "last_commit": "2024-07-26T19:46:13Z",
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43735
+            "stars": 43736
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2023-08-20T07:32:57Z",
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
-            "stars": 6029
+            "stars": 6028
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2022-11-06T17:53:06Z",
             "owner": "guillaume-chevalier",
             "repo": "LSTM-Human-Activity-Recognition",
-            "stars": 3485
+            "stars": 3483
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2020-03-23T06:50:22Z",
             "owner": "sjchoi86",
             "repo": "Tensorflow-101",
-            "stars": 2593
+            "stars": 2592
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2018-11-08T18:48:00Z",
             "owner": "samjabrahams",
             "repo": "tensorflow-on-raspberry-pi",
-            "stars": 2257
+            "stars": 2256
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2019-05-14T16:45:45Z",
             "owner": "terryum",
             "repo": "TensorFlow_Exercises",
-            "stars": 611
+            "stars": 610
           }
         },
         {
@@ -720,10 +720,10 @@
             "archived": false,
             "id": 45717250,
             "language": "C++",
-            "last_commit": "2026-08-20T10:54:40Z",
+            "last_commit": "2026-08-21T10:50:14Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197077
+            "stars": 197214
           }
         },
         {
@@ -735,10 +735,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-17T23:06:28Z",
+            "last_commit": "2026-08-21T05:54:38Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77650
+            "stars": 77647
           }
         },
         {
@@ -750,10 +750,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-17T23:06:28Z",
+            "last_commit": "2026-08-21T05:54:38Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77650
+            "stars": 77647
           }
         },
         {
@@ -768,7 +768,7 @@
             "last_commit": "2026-07-07T22:31:42Z",
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9961
+            "stars": 9960
           }
         },
         {
@@ -896,7 +896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:55:04.875Z",
+    "last_updated": "2026-08-21T10:55:23.912Z",
     "original_repository": "fendouai/Awesome-TensorFlow-Chinese",
     "original_repository_id": 102089807,
     "original_repository_sha": "fe076719349c1dd15ed61ddfeb5a8fab02f2bbe8",
