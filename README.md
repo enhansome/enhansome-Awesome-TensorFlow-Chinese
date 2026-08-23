@@ -105,12 +105,12 @@ Deep Learning 中文翻译
 
 ## 教程
 
-* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,738 | 🐛 228 | 🌐 Jupyter Notebook | 📅 2024-07-26 - 针对初学者的 TensorFlow 教程和代码
+* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,737 | 🐛 228 | 🌐 Jupyter Notebook | 📅 2024-07-26 - 针对初学者的 TensorFlow 教程和代码
 * [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow) ⭐ 8,587 | 🐛 0 | 📅 2020-10-22 - Tensorflow howtos and best practices. Covers the basics as well as advanced topics.
 * [TensorFlow Tutorial](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,028 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20 - 基于谷歌的 TensorFlow 框架介绍深度学习
 * [TensorFlow Tutorial](https://github.com/pkmital/tensorflow_tutorials) ⭐ 5,670 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2021-12-11 - 从基础知识到有趣的 tensorflow 应用
 * [TensorFlow World](https://github.com/astorfi/TensorFlow-World) ⭐ 4,489 | 🐛 3 | 🌐 Python | 📅 2020-12-23 - Concise and ready-to-use TensorFlow tutorials with detailed documentation are provided.
-* [Classification on time series](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) ⭐ 3,483 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-11-06 - Recurrent Neural Network classification in TensorFlow with LSTM on cellphone sensor data
+* [Classification on time series](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) ⭐ 3,482 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-11-06 - Recurrent Neural Network classification in TensorFlow with LSTM on cellphone sensor data
 * [Sungjoon's TensorFlow-101](https://github.com/sjchoi86/Tensorflow-101) ⭐ 2,592 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2020-03-23 - TensorFlow 教程用 Python 的 Jupyter Notebook
 * [Installing TensorFlow on Raspberry Pi 3](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) ⭐ 2,256 | 🐛 75 | 🌐 Python | 📅 2018-11-08 - TensorFlow compiled and running properly on the Raspberry Pi
 * [Predict time series](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) ⭐ 1,081 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-03-25 - Learn to use a seq2seq model on simple datasets as an introduction to the vast array of possibilities that this architecture offers
@@ -127,7 +127,7 @@ Deep Learning 中文翻译
 
 * [Neural Style](https://github.com/anishathalye/neural-style) ⭐ 5,539 | 🐛 6 | 🌐 Python | 📅 2026-04-18 - An implementation of neural style
 
-* [Wavenet](https://github.com/ibab/tensorflow-wavenet) ⭐ 5,428 | 🐛 176 | 🌐 Python | 📅 2023-07-12 - This is a TensorFlow implementation of the [WaveNet generative neural network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) for audio generation.
+* [Wavenet](https://github.com/ibab/tensorflow-wavenet) ⭐ 5,427 | 🐛 176 | 🌐 Python | 📅 2023-07-12 - This is a TensorFlow implementation of the [WaveNet generative neural network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) for audio generation.
 
 * [Colornet - Neural Network to colorize grayscale images](https://github.com/pavelgonchar/colornet) ⭐ 3,553 | 🐛 14 | 🌐 Python | 📅 2020-04-21 - Neural Network to colorize grayscale images
 
@@ -155,7 +155,7 @@ Deep Learning 中文翻译
 
 * [CNN visualization using Tensorflow](https://github.com/InFoCusp/tf_cnnvis) ⭐ 778 | 🐛 23 | 🌐 Python | 📅 2019-03-16 - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 
-* [Generative Handwriting Demo using TensorFlow](https://github.com/hardmaru/write-rnn-tensorflow) ⭐ 703 | 🐛 19 | 🌐 Python | 📅 2018-02-10 - An attempt to implement the random handwriting generation portion of Alex Graves' paper
+* [Generative Handwriting Demo using TensorFlow](https://github.com/hardmaru/write-rnn-tensorflow) ⭐ 702 | 🐛 19 | 🌐 Python | 📅 2018-02-10 - An attempt to implement the random handwriting generation portion of Alex Graves' paper
 
 * [Neural Caption Generator](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) ⭐ 502 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2019-10-23 - Implementation of ["Show and Tell"](http://arxiv.org/abs/1411.4555)
 
@@ -195,10 +195,10 @@ Deep Learning 中文翻译
 
 ## 库
 
-* [tf.contrib.learn](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) ⭐ 197,311 | 🐛 2,917 | 🌐 C++ | 📅 2026-08-22 - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
+* [tf.contrib.learn](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) ⭐ 197,364 | 🐛 2,935 | 🌐 C++ | 📅 2026-08-23 - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
 * [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) ⭐ 77,648 | 🐛 1,273 | 🌐 Python | 📅 2026-08-21 - High-level library for defining models
 * [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,648 | 🐛 1,273 | 🌐 Python | 📅 2026-08-21 - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
-* [Sonnet](https://github.com/deepmind/sonnet) ⭐ 9,959 | 🐛 43 | 🌐 Python | 📅 2026-07-07 - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
+* [Sonnet](https://github.com/deepmind/sonnet) ⭐ 9,960 | 🐛 43 | 🌐 Python | 📅 2026-07-07 - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
 * [tflearn](https://github.com/tflearn/tflearn) ⭐ 9,575 | 🐛 579 | 🌐 Python | 📅 2024-05-06 - Deep learning library featuring a higher-level API
 * [tensorpack](https://github.com/ppwwyyxx/tensorpack) ⭐ 6,285 | 🐛 14 | 🌐 Python | 📅 2023-08-06 - Neural Network Toolbox on TensorFlow focusing on training speed and on large datasets.
 * [keras-js](https://github.com/transcranial/keras-js) ⭐ 4,963 | 🐛 81 | 🌐 JavaScript | 📅 2022-06-15 - Run Keras models (tensorflow backend) in the browser, with GPU support
@@ -274,4 +274,4 @@ Deep Learning 中文翻译
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
