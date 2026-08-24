@@ -276,7 +276,7 @@
             "last_commit": "2022-12-30T14:42:37Z",
             "owner": "Conchylicultor",
             "repo": "DeepQA",
-            "stars": 2911
+            "stars": 2910
           }
         },
         {
@@ -672,7 +672,7 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19809
+            "stars": 19808
           }
         },
         {
@@ -720,10 +720,10 @@
             "archived": false,
             "id": 45717250,
             "language": "C++",
-            "last_commit": "2026-08-23T03:04:48Z",
+            "last_commit": "2026-08-24T10:51:17Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197364
+            "stars": 197380
           }
         },
         {
@@ -768,7 +768,7 @@
             "last_commit": "2026-07-07T22:31:42Z",
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9960
+            "stars": 9961
           }
         },
         {
@@ -896,7 +896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:47:16.413Z",
+    "last_updated": "2026-08-24T11:00:36.252Z",
     "original_repository": "fendouai/Awesome-TensorFlow-Chinese",
     "original_repository_id": 102089807,
     "original_repository_sha": "fe076719349c1dd15ed61ddfeb5a8fab02f2bbe8",
