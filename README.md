@@ -105,13 +105,13 @@ Deep Learning 中文翻译
 
 ## 教程
 
-* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,737 | 🐛 228 | 🌐 Jupyter Notebook | 📅 2024-07-26 - 针对初学者的 TensorFlow 教程和代码
+* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,736 | 🐛 228 | 🌐 Jupyter Notebook | 📅 2024-07-26 - 针对初学者的 TensorFlow 教程和代码
 * [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow) ⭐ 8,587 | 🐛 0 | 📅 2020-10-22 - Tensorflow howtos and best practices. Covers the basics as well as advanced topics.
 * [TensorFlow Tutorial](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,028 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20 - 基于谷歌的 TensorFlow 框架介绍深度学习
 * [TensorFlow Tutorial](https://github.com/pkmital/tensorflow_tutorials) ⭐ 5,670 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2021-12-11 - 从基础知识到有趣的 tensorflow 应用
-* [TensorFlow World](https://github.com/astorfi/TensorFlow-World) ⭐ 4,489 | 🐛 3 | 🌐 Python | 📅 2020-12-23 - Concise and ready-to-use TensorFlow tutorials with detailed documentation are provided.
+* [TensorFlow World](https://github.com/astorfi/TensorFlow-World) ⭐ 4,488 | 🐛 3 | 🌐 Python | 📅 2020-12-23 - Concise and ready-to-use TensorFlow tutorials with detailed documentation are provided.
 * [Classification on time series](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) ⭐ 3,482 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-11-06 - Recurrent Neural Network classification in TensorFlow with LSTM on cellphone sensor data
-* [Sungjoon's TensorFlow-101](https://github.com/sjchoi86/Tensorflow-101) ⭐ 2,592 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2020-03-23 - TensorFlow 教程用 Python 的 Jupyter Notebook
+* [Sungjoon's TensorFlow-101](https://github.com/sjchoi86/Tensorflow-101) ⭐ 2,591 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2020-03-23 - TensorFlow 教程用 Python 的 Jupyter Notebook
 * [Installing TensorFlow on Raspberry Pi 3](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) ⭐ 2,256 | 🐛 75 | 🌐 Python | 📅 2018-11-08 - TensorFlow compiled and running properly on the Raspberry Pi
 * [Predict time series](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) ⭐ 1,081 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-03-25 - Learn to use a seq2seq model on simple datasets as an introduction to the vast array of possibilities that this architecture offers
 * [Terry Um’s TensorFlow Exercises](https://github.com/terryum/TensorFlow_Exercises) ⭐ 610 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-05-14 - Re-create the codes from other TensorFlow examples
@@ -129,7 +129,7 @@ Deep Learning 中文翻译
 
 * [Wavenet](https://github.com/ibab/tensorflow-wavenet) ⭐ 5,427 | 🐛 176 | 🌐 Python | 📅 2023-07-12 - This is a TensorFlow implementation of the [WaveNet generative neural network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) for audio generation.
 
-* [Colornet - Neural Network to colorize grayscale images](https://github.com/pavelgonchar/colornet) ⭐ 3,553 | 🐛 14 | 🌐 Python | 📅 2020-04-21 - Neural Network to colorize grayscale images
+* [Colornet - Neural Network to colorize grayscale images](https://github.com/pavelgonchar/colornet) ⭐ 3,552 | 🐛 14 | 🌐 Python | 📅 2020-04-21 - Neural Network to colorize grayscale images
 
 * [Neural Style](https://github.com/cysmith/neural-style-tf) ⭐ 3,103 | 🐛 68 | 🌐 Python | 📅 2020-12-24 Implementation of Neural Style
 
@@ -195,7 +195,7 @@ Deep Learning 中文翻译
 
 ## 库
 
-* [tf.contrib.learn](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) ⭐ 197,380 | 🐛 2,942 | 🌐 C++ | 📅 2026-08-24 - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
+* [tf.contrib.learn](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) ⭐ 197,384 | 🐛 2,932 | 🌐 C++ | 📅 2026-08-24 - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
 * [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) ⭐ 77,648 | 🐛 1,273 | 🌐 Python | 📅 2026-08-21 - High-level library for defining models
 * [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,648 | 🐛 1,273 | 🌐 Python | 📅 2026-08-21 - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
 * [Sonnet](https://github.com/deepmind/sonnet) ⭐ 9,961 | 🐛 43 | 🌐 Python | 📅 2026-07-07 - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
@@ -211,6 +211,7 @@ Deep Learning 中文翻译
 
 ## 视频
 
+* [Diving into Machine Learning through TensorFlow](https://youtu.be/GZBIPwdGtkk?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W) - Pycon 2016 Portland Oregon, [Slide](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf) & [Code](https://github.com/amygdala/tensorflow-workshop) ⭐ 629 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2018-08-16 by Julia Ferraioli, Amy Unruh, Eli Bixby
 * [TensorFlow Guide 1](http://bit.ly/1OX8s8Y) - A guide to installation and use
 * [TensorFlow Guide 2](http://bit.ly/1R27Ki9) - Continuation of first video
 * [TensorFlow Basic Usage](http://bit.ly/1TCNmEY) - A guide going over basic usage
@@ -220,18 +221,17 @@ Deep Learning 中文翻译
 * [Videos from TensorFlow Silicon Valley Meet Up 1/19/2016](http://blog.altoros.com/videos-from-tensorflow-silicon-valley-meetup-january-19-2016.html)
 * [Videos from TensorFlow Silicon Valley Meet Up 1/21/2016](http://blog.altoros.com/videos-from-tensorflow-seattle-meetup-jan-21-2016.html)
 * [Stanford CS224d Lecture 7 - Introduction to TensorFlow, 19th Apr 2016](https://www.youtube.com/watch?v=L8Y2_Cq2X5s\&index=7\&list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam) - CS224d Deep Learning for Natural Language Processing by Richard Socher
-* [Diving into Machine Learning through TensorFlow](https://youtu.be/GZBIPwdGtkk?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W) - Pycon 2016 Portland Oregon, [Slide](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf) & [Code](https://github.com/amygdala/tensorflow-workshop) ⭐ 629 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2018-08-16 by Julia Ferraioli, Amy Unruh, Eli Bixby
 * [Large Scale Deep Learning with TensorFlow](https://youtu.be/XYwIDn00PAo) - Spark Summit 2016 Keynote by Jeff Dean
 * [Tensorflow and deep learning - without at PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) -  by Martin Görner
 * [Tensorflow and deep learning - without at PhD, Part 2 (Google Cloud Next '17)](https://www.youtube.com/watch?v=fTUwdXUFfI8) -  by Martin Görner
 
 ## 论文
 
+* [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - This paper describes the models behind [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,648 | 🐛 1,273 | 🌐 Python | 📅 2026-08-21.
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - This paper describes the TensorFlow interface and an implementation of that interface that we have built at Google
 * [TF.Learn: TensorFlow's High-level Module for Distributed Machine Learning](https://arxiv.org/abs/1612.04251)
 * [Comparative Study of Deep Learning Software Frameworks](http://arxiv.org/abs/1511.06435) - The study is performed on several types of deep learning architectures and we evaluate the performance of the above frameworks when employed on a single machine for both (multi-threaded) CPU and GPU (Nvidia Titan X) settings
 * [Distributed TensorFlow with MPI](http://arxiv.org/abs/1603.02339) - In this paper, we extend recently proposed Google TensorFlow for execution on large scale clusters using Message Passing Interface (MPI)
-* [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - This paper describes the models behind [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,648 | 🐛 1,273 | 🌐 Python | 📅 2026-08-21.
 * [TensorFlow: A system for large-scale machine learning](https://arxiv.org/abs/1605.08695) - This paper describes the TensorFlow dataflow model in contrast to existing systems and demonstrate the compelling performance
 
 ## 官方博客
