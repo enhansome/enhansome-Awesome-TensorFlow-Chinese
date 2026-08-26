@@ -16,10 +16,10 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-21T16:27:30Z",
+                    "last_commit": "2026-08-25T21:25:59Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77650
+                    "stars": 77652
                   }
                 }
               ],
@@ -94,7 +94,7 @@
             "last_commit": "2024-07-26T19:46:13Z",
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43736
+            "stars": 43735
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2020-10-22T05:26:17Z",
             "owner": "vahidk",
             "repo": "EffectiveTensorflow",
-            "stars": 8586
+            "stars": 8585
           }
         },
         {
@@ -139,7 +139,7 @@
             "last_commit": "2021-12-11T20:54:51Z",
             "owner": "pkmital",
             "repo": "tensorflow_tutorials",
-            "stars": 5670
+            "stars": 5669
           }
         },
         {
@@ -265,7 +265,7 @@
             "last_commit": "2023-10-23T23:26:26Z",
             "owner": "thtrieu",
             "repo": "darkflow",
-            "stars": 6141
+            "stars": 6140
           }
         },
         {
@@ -295,7 +295,7 @@
             "last_commit": "2026-04-18T16:29:56Z",
             "owner": "anishathalye",
             "repo": "neural-style",
-            "stars": 5540
+            "stars": 5541
           }
         },
         {
@@ -475,7 +475,7 @@
             "last_commit": "2020-03-03T19:12:02Z",
             "owner": "astorfi",
             "repo": "3D-convolutional-speaker-recognition",
-            "stars": 792
+            "stars": 793
           }
         },
         {
@@ -799,10 +799,10 @@
             "archived": false,
             "id": 45717250,
             "language": "C++",
-            "last_commit": "2026-08-25T10:55:52Z",
+            "last_commit": "2026-08-26T10:58:58Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197618
+            "stars": 197631
           }
         },
         {
@@ -814,10 +814,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-21T16:27:30Z",
+            "last_commit": "2026-08-25T21:25:59Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77650
+            "stars": 77652
           }
         },
         {
@@ -829,10 +829,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-21T16:27:30Z",
+            "last_commit": "2026-08-25T21:25:59Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77650
+            "stars": 77652
           }
         },
         {
@@ -877,7 +877,7 @@
             "last_commit": "2023-08-06T00:30:36Z",
             "owner": "tensorpack",
             "repo": "tensorpack",
-            "stars": 6285
+            "stars": 6286
           }
         },
         {
@@ -1006,10 +1006,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-21T16:27:30Z",
+            "last_commit": "2026-08-25T21:25:59Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77650
+            "stars": 77652
           }
         }
       ],
@@ -1017,7 +1017,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:57:26.578Z",
+    "last_updated": "2026-08-26T10:59:08.604Z",
     "original_repository": "fendouai/Awesome-TensorFlow-Chinese",
     "original_repository_id": 102089807,
     "original_repository_sha": "fe076719349c1dd15ed61ddfeb5a8fab02f2bbe8",
