@@ -16,10 +16,10 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-27T04:28:47Z",
+                    "last_commit": "2026-08-27T18:32:19Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77653
+                    "stars": 77655
                   }
                 }
               ],
@@ -41,7 +41,7 @@
                     "last_commit": "2026-01-06T01:17:54Z",
                     "owner": "magenta",
                     "repo": "magenta",
-                    "stars": 19808
+                    "stars": 19807
                   }
                 }
               ],
@@ -295,7 +295,7 @@
             "last_commit": "2026-04-18T16:29:56Z",
             "owner": "anishathalye",
             "repo": "neural-style",
-            "stars": 5541
+            "stars": 5542
           }
         },
         {
@@ -751,7 +751,7 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19808
+            "stars": 19807
           }
         },
         {
@@ -799,10 +799,10 @@
             "archived": false,
             "id": 45717250,
             "language": "C++",
-            "last_commit": "2026-08-27T11:26:56Z",
+            "last_commit": "2026-08-27T20:36:03Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197719
+            "stars": 197738
           }
         },
         {
@@ -814,10 +814,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-27T04:28:47Z",
+            "last_commit": "2026-08-27T18:32:19Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653
+            "stars": 77655
           }
         },
         {
@@ -829,10 +829,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-27T04:28:47Z",
+            "last_commit": "2026-08-27T18:32:19Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653
+            "stars": 77655
           }
         },
         {
@@ -1006,10 +1006,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-27T04:28:47Z",
+            "last_commit": "2026-08-27T18:32:19Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653
+            "stars": 77655
           }
         }
       ],
@@ -1017,7 +1017,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:27:05.301Z",
+    "last_updated": "2026-08-27T20:37:28.404Z",
     "original_repository_info": {
       "archived": false,
       "id": 102089807,
