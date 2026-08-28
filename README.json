@@ -16,11 +16,12 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-27T18:32:19Z",
+                    "last_commit": "2026-08-28T18:30:48Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77655
-                  }
+                    "stars": 77659
+                  },
+                  "first_seen": "2026-08-28T21:12:11.898Z"
                 }
               ],
               "description": null,
@@ -42,7 +43,8 @@
                     "owner": "magenta",
                     "repo": "magenta",
                     "stars": 19807
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:12:11.898Z"
                 }
               ],
               "description": null,
@@ -64,7 +66,8 @@
                     "owner": "tensorflow",
                     "repo": "nmt",
                     "stars": 6454
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:12:11.898Z"
                 }
               ],
               "description": null,
@@ -95,7 +98,8 @@
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
             "stars": 43735
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -110,7 +114,8 @@
             "owner": "vahidk",
             "repo": "EffectiveTensorflow",
             "stars": 8585
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -125,7 +130,8 @@
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
             "stars": 6028
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -140,7 +146,8 @@
             "owner": "pkmital",
             "repo": "tensorflow_tutorials",
             "stars": 5668
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -155,7 +162,8 @@
             "owner": "astorfi",
             "repo": "TensorFlow-World",
             "stars": 4488
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -170,7 +178,8 @@
             "owner": "guillaume-chevalier",
             "repo": "LSTM-Human-Activity-Recognition",
             "stars": 3483
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -185,7 +194,8 @@
             "owner": "sjchoi86",
             "repo": "Tensorflow-101",
             "stars": 2591
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -200,7 +210,8 @@
             "owner": "samjabrahams",
             "repo": "tensorflow-on-raspberry-pi",
             "stars": 2256
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -215,7 +226,8 @@
             "owner": "guillaume-chevalier",
             "repo": "seq2seq-signal-prediction",
             "stars": 1081
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -230,7 +242,8 @@
             "owner": "terryum",
             "repo": "TensorFlow_Exercises",
             "stars": 610
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -245,7 +258,8 @@
             "owner": "Mazecreator",
             "repo": "TensorFlow-SIRDS",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         }
       ],
       "title": "教程"
@@ -266,7 +280,8 @@
             "owner": "thtrieu",
             "repo": "darkflow",
             "stars": 6139
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -281,7 +296,8 @@
             "owner": "dennybritz",
             "repo": "cnn-text-classification-tf",
             "stars": 5685
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -295,8 +311,9 @@
             "last_commit": "2026-04-18T16:29:56Z",
             "owner": "anishathalye",
             "repo": "neural-style",
-            "stars": 5542
-          }
+            "stars": 5544
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -311,7 +328,8 @@
             "owner": "ibab",
             "repo": "tensorflow-wavenet",
             "stars": 5428
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -326,7 +344,8 @@
             "owner": "pavelgonchar",
             "repo": "colornet",
             "stars": 3552
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -341,7 +360,8 @@
             "owner": "cysmith",
             "repo": "neural-style-tf",
             "stars": 3104
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -356,7 +376,8 @@
             "owner": "Conchylicultor",
             "repo": "DeepQA",
             "stars": 2910
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -371,7 +392,8 @@
             "owner": "devsisters",
             "repo": "DQN-tensorflow",
             "stars": 2583
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -386,7 +408,8 @@
             "owner": "astorfi",
             "repo": "lip-reading-deeplearning",
             "stars": 1905
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -401,7 +424,8 @@
             "owner": "trailbehind",
             "repo": "DeepOSM",
             "stars": 1330
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -416,7 +440,8 @@
             "owner": "google",
             "repo": "prettytensor",
             "stars": 1227
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -431,7 +456,8 @@
             "owner": "carpedm20",
             "repo": "NTM-tensorflow",
             "stars": 1047
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -446,7 +472,8 @@
             "owner": "yunjey",
             "repo": "show-attend-and-tell",
             "stars": 907
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -461,7 +488,8 @@
             "owner": "yunjey",
             "repo": "domain-transfer-network",
             "stars": 862
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -476,7 +504,8 @@
             "owner": "astorfi",
             "repo": "3D-convolutional-speaker-recognition",
             "stars": 793
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -491,7 +520,8 @@
             "owner": "carpedm20",
             "repo": "lstm-char-cnn-tensorflow",
             "stars": 788
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -506,7 +536,8 @@
             "owner": "infocusp",
             "repo": "tf_cnnvis",
             "stars": 778
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -521,7 +552,8 @@
             "owner": "hardmaru",
             "repo": "write-rnn-tensorflow",
             "stars": 702
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -536,7 +568,8 @@
             "owner": "jazzsaxmafia",
             "repo": "show_attend_and_tell.tensorflow",
             "stars": 502
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -551,7 +584,8 @@
             "owner": "jazzsaxmafia",
             "repo": "show_attend_and_tell.tensorflow",
             "stars": 502
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -566,7 +600,8 @@
             "owner": "ckmarkoh",
             "repo": "neuralart_tensorflow",
             "stars": 492
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -581,7 +616,8 @@
             "owner": "samjabrahams",
             "repo": "tensorflow-white-paper-notes",
             "stars": 432
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -596,7 +632,8 @@
             "owner": "jazzsaxmafia",
             "repo": "Weakly_detector",
             "stars": 361
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -611,7 +648,8 @@
             "owner": "agermanidis",
             "repo": "thingscoop",
             "stars": 358
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -626,7 +664,8 @@
             "owner": "domluna",
             "repo": "memn2n",
             "stars": 340
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -641,7 +680,8 @@
             "owner": "dwiel",
             "repo": "tensorflow_hmm",
             "stars": 285
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -656,7 +696,8 @@
             "owner": "tokestermw",
             "repo": "tensorflow-shakespeare",
             "stars": 249
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -671,7 +712,8 @@
             "owner": "trigeorgis",
             "repo": "mdm",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -686,7 +728,8 @@
             "owner": "fomorians",
             "repo": "highway-cnn",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -701,7 +744,8 @@
             "owner": "denti",
             "repo": "AlexNet3D",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -716,7 +760,8 @@
             "owner": "Singularity42",
             "repo": "VGAN-Tensorflow",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -731,7 +776,8 @@
             "owner": "jazzsaxmafia",
             "repo": "dcn.tf",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         }
       ],
       "title": "模型项目"
@@ -752,7 +798,8 @@
             "owner": "magenta",
             "repo": "magenta",
             "stars": 19807
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -767,7 +814,8 @@
             "owner": "gliese581gg",
             "repo": "YOLO_tensorflow",
             "stars": 1708
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -782,7 +830,8 @@
             "owner": "natanielruiz",
             "repo": "android-yolo",
             "stars": 691
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         }
       ],
       "title": "基于 TensorFlow 的产品"
@@ -799,11 +848,12 @@
             "archived": false,
             "id": 45717250,
             "language": "C++",
-            "last_commit": "2026-08-27T20:36:03Z",
+            "last_commit": "2026-08-28T21:10:44Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197738
-          }
+            "stars": 197766
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -814,11 +864,12 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-27T18:32:19Z",
+            "last_commit": "2026-08-28T18:30:48Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77655
-          }
+            "stars": 77659
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -829,11 +880,12 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-27T18:32:19Z",
+            "last_commit": "2026-08-28T18:30:48Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77655
-          }
+            "stars": 77659
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -847,8 +899,9 @@
             "last_commit": "2026-07-07T22:31:42Z",
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9962
-          }
+            "stars": 9961
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -863,7 +916,8 @@
             "owner": "tflearn",
             "repo": "tflearn",
             "stars": 9576
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -878,7 +932,8 @@
             "owner": "tensorpack",
             "repo": "tensorpack",
             "stars": 6286
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -893,7 +948,8 @@
             "owner": "transcranial",
             "repo": "keras-js",
             "stars": 4963
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -908,7 +964,8 @@
             "owner": "yahoo",
             "repo": "TensorFlowOnSpark",
             "stars": 3845
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -923,7 +980,8 @@
             "owner": "ethereon",
             "repo": "caffe-tensorflow",
             "stars": 2786
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -938,7 +996,8 @@
             "owner": "somaticio",
             "repo": "tensorflow.rb",
             "stars": 832
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -953,7 +1012,8 @@
             "owner": "databricks",
             "repo": "tensorframes",
             "stars": 744
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         },
         {
           "node_type": "item",
@@ -968,7 +1028,8 @@
             "owner": "welschma",
             "repo": "NNFlow",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         }
       ],
       "title": "库"
@@ -989,7 +1050,8 @@
             "owner": "amygdala",
             "repo": "tensorflow-workshop",
             "stars": 629
-          }
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         }
       ],
       "title": "视频"
@@ -1006,18 +1068,19 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-27T18:32:19Z",
+            "last_commit": "2026-08-28T18:30:48Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77655
-          }
+            "stars": 77659
+          },
+          "first_seen": "2026-08-28T21:12:11.898Z"
         }
       ],
       "title": "论文"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:37:28.404Z",
+    "last_updated": "2026-08-28T21:12:11.898Z",
     "original_repository_info": {
       "archived": false,
       "id": 102089807,
