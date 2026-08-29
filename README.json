@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Models and examples built with TensorFlow",
+                    "homepage": null,
                     "id": 51117837,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T18:30:48Z",
+                    "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77659
+                    "stars": 77658,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:12:11.898Z"
                 }
@@ -37,12 +42,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Magenta: Music and Art Generation with Machine Intelligence",
+                    "homepage": null,
                     "id": 58157629,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-01-06T01:17:54Z",
+                    "open_issues": 428,
                     "owner": "magenta",
                     "repo": "magenta",
-                    "stars": 19807
+                    "stars": 19807,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:12:11.898Z"
                 }
@@ -60,12 +70,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "TensorFlow Neural Machine Translation Tutorial",
+                    "homepage": null,
                     "id": 95723115,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-10-09T08:07:34Z",
+                    "open_issues": 273,
                     "owner": "tensorflow",
                     "repo": "nmt",
-                    "stars": 6454
+                    "stars": 6454,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:12:11.898Z"
                 }
@@ -92,12 +107,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)",
+            "homepage": null,
             "id": 45986162,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-26T19:46:13Z",
+            "open_issues": 228,
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43735
+            "stars": 43735,
+            "topics": [
+              "deep-learning",
+              "examples",
+              "machine-learning",
+              "python",
+              "tensorflow",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -108,12 +135,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow tutorials and best practices.",
+            "homepage": "https://twitter.com/VahidK",
             "id": 98965177,
             "language": null,
+            "license": null,
             "last_commit": "2020-10-22T05:26:17Z",
+            "open_issues": 0,
             "owner": "vahidk",
             "repo": "EffectiveTensorflow",
-            "stars": 8585
+            "stars": 8585,
+            "topics": [
+              "deep-learning",
+              "ebook",
+              "machine-learning",
+              "neural-network",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -124,12 +162,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple tutorials using Google's TensorFlow Framework",
+            "homepage": null,
             "id": 45946078,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-08-20T07:32:57Z",
+            "open_issues": 16,
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
-            "stars": 6028
+            "stars": 6028,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -140,12 +183,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "From the basics to slightly more interesting applications of Tensorflow",
+            "homepage": null,
             "id": 50972789,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2021-12-11T20:54:51Z",
+            "open_issues": 10,
             "owner": "pkmital",
             "repo": "tensorflow_tutorials",
-            "stars": 5668
+            "stars": 5668,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -156,12 +204,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":earth_americas: Simple and ready-to-use tutorials for TensorFlow",
+            "homepage": null,
             "id": 86115145,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-12-23T00:18:21Z",
+            "open_issues": 3,
             "owner": "astorfi",
             "repo": "TensorFlow-World",
-            "stars": 4488
+            "stars": 4488,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "machine-learning",
+              "neural-network",
+              "python",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -172,12 +232,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Human Activity Recognition example using TensorFlow on smartphone sensors dataset and an LSTM RNN. Classifying the type of movement amongst six activity categories - Guillaume Chevalier",
+            "homepage": null,
             "id": 59073471,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-11-06T17:53:06Z",
+            "open_issues": 22,
             "owner": "guillaume-chevalier",
             "repo": "LSTM-Human-Activity-Recognition",
-            "stars": 3483
+            "stars": 3483,
+            "topics": [
+              "activity-recognition",
+              "deep-learning",
+              "human-activity-recognition",
+              "lstm",
+              "machine-learning",
+              "neural-network",
+              "recurrent-neural-networks",
+              "rnn",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -188,12 +263,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow Tutorials",
+            "homepage": null,
             "id": 58386168,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2020-03-23T06:50:22Z",
+            "open_issues": 13,
             "owner": "sjchoi86",
             "repo": "Tensorflow-101",
-            "stars": 2591
+            "stars": 2591,
+            "topics": [
+              "convolutional-neural-networks",
+              "recurrent-neural-networks",
+              "tensorflow-tutorials"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -204,12 +288,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow for Raspberry Pi",
+            "homepage": null,
             "id": 53717060,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2018-11-08T18:48:00Z",
+            "open_issues": 75,
             "owner": "samjabrahams",
             "repo": "tensorflow-on-raspberry-pi",
-            "stars": 2256
+            "stars": 2256,
+            "topics": [
+              "machine-learning",
+              "raspberry-pi",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -220,12 +313,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Signal forecasting with a Sequence-to-Sequence (seq2seq) Recurrent Neural Network (RNN) model in TensorFlow - Guillaume Chevalier",
+            "homepage": null,
             "id": 86853350,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-25T00:33:48Z",
+            "open_issues": 9,
             "owner": "guillaume-chevalier",
             "repo": "seq2seq-signal-prediction",
-            "stars": 1081
+            "stars": 1081,
+            "topics": [
+              "python",
+              "seq2seq",
+              "tensorflow",
+              "tensorflow-tutorials"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -236,12 +339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The codes I made while I practiced various TensorFlow examples",
+            "homepage": null,
             "id": 59926168,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-05-14T16:45:45Z",
+            "open_issues": 0,
             "owner": "terryum",
             "repo": "TensorFlow_Exercises",
-            "stars": 610
+            "stars": 610,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -252,12 +360,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Single Image Random Dot Stereogram for Tensorflow",
+            "homepage": null,
             "id": 84766419,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2020-10-25T02:23:00Z",
+            "open_issues": 0,
             "owner": "Mazecreator",
             "repo": "TensorFlow-SIRDS",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "3d-reconstruction",
+              "jupyter-notebook",
+              "python",
+              "stereogram-creator",
+              "stereogram-generator",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         }
@@ -274,12 +394,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices",
+            "homepage": null,
             "id": 65791375,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-10-23T23:26:26Z",
+            "open_issues": 642,
             "owner": "thtrieu",
             "repo": "darkflow",
-            "stars": 6139
+            "stars": 6139,
+            "topics": [
+              "convolutional-networks",
+              "convolutional-neural-networks",
+              "darknet",
+              "deep-learning",
+              "deep-neural-networks",
+              "graph",
+              "image-processing",
+              "machine-learning",
+              "mobile-development",
+              "object-detection",
+              "real-time",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -290,12 +428,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convolutional Neural Network for Text Classification in Tensorflow",
+            "homepage": null,
             "id": 46801369,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-15T19:15:44Z",
+            "open_issues": 110,
             "owner": "dennybritz",
             "repo": "cnn-text-classification-tf",
-            "stars": 5685
+            "stars": 5685,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -306,12 +449,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural style in TensorFlow! 🎨",
+            "homepage": "https://anishathalye.com/an-ai-that-can-mimic-any-artist/",
             "id": 46638669,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-18T16:29:56Z",
+            "open_issues": 6,
             "owner": "anishathalye",
             "repo": "neural-style",
-            "stars": 5544
+            "stars": 5544,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -322,12 +470,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TensorFlow implementation of DeepMind's WaveNet paper",
+            "homepage": null,
             "id": 68013171,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-12T06:15:53Z",
+            "open_issues": 176,
             "owner": "ibab",
             "repo": "tensorflow-wavenet",
-            "stars": 5428
+            "stars": 5428,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -338,12 +491,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural Network to colorize grayscale images",
+            "homepage": null,
             "id": 56582693,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-04-21T10:17:51Z",
+            "open_issues": 14,
             "owner": "pavelgonchar",
             "repo": "colornet",
-            "stars": 3552
+            "stars": 3552,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -354,12 +512,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow (Python API) implementation of Neural Style",
+            "homepage": null,
             "id": 70356386,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-12-24T19:45:09Z",
+            "open_issues": 68,
             "owner": "cysmith",
             "repo": "neural-style-tf",
-            "stars": 3104
+            "stars": 3104,
+            "topics": [
+              "convolutional-neural-network",
+              "deep-learning",
+              "style-transfer",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -370,12 +538,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My tensorflow implementation of \"A neural conversational model\", a Deep learning based chatbot",
+            "homepage": null,
             "id": 62824998,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-30T14:42:37Z",
+            "open_issues": 93,
             "owner": "Conchylicultor",
             "repo": "DeepQA",
-            "stars": 2910
+            "stars": 2910,
+            "topics": [
+              "chatbot",
+              "deep-learning",
+              "seq2seq",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -386,12 +564,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tensorflow implementation of Human-Level Control through Deep Reinforcement Learning",
+            "homepage": null,
             "id": 58858323,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-04-18T18:36:45Z",
+            "open_issues": 39,
             "owner": "devsisters",
             "repo": "DQN-tensorflow",
-            "stars": 2583
+            "stars": 2583,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -402,12 +585,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":unlock: Lip Reading - Cross Audio-Visual Recognition using 3D Architectures",
+            "homepage": null,
             "id": 94938983,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-07T13:58:59Z",
+            "open_issues": 7,
             "owner": "astorfi",
             "repo": "lip-reading-deeplearning",
-            "stars": 1905
+            "stars": 1905,
+            "topics": [
+              "3d-convolutional-network",
+              "computer-vision",
+              "deep-learning",
+              "speech-recognition",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -418,12 +612,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Train a deep learning net with OpenStreetMap features and satellite imagery.",
+            "homepage": null,
             "id": 51717338,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-03-13T16:09:05Z",
+            "open_issues": 13,
             "owner": "trailbehind",
             "repo": "DeepOSM",
-            "stars": 1330
+            "stars": 1330,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -434,12 +633,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Pretty Tensor: Fluent Networks in TensorFlow",
+            "homepage": null,
             "id": 45413084,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-05-17T17:37:00Z",
+            "open_issues": 28,
             "owner": "google",
             "repo": "prettytensor",
-            "stars": 1227
+            "stars": 1227,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -450,12 +654,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"Neural Turing Machine\" in Tensorflow",
+            "homepage": null,
             "id": 47695867,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2017-05-18T06:31:02Z",
+            "open_issues": 11,
             "owner": "carpedm20",
             "repo": "NTM-tensorflow",
-            "stars": 1047
+            "stars": 1047,
+            "topics": [
+              "neural-turing-machines",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -466,12 +678,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow Implementation of \"Show, Attend and Tell\" ",
+            "homepage": null,
             "id": 67860365,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2018-07-28T19:46:50Z",
+            "open_issues": 57,
             "owner": "yunjey",
             "repo": "show-attend-and-tell",
-            "stars": 907
+            "stars": 907,
+            "topics": [
+              "attention-mechanism",
+              "image-captioning",
+              "mscoco-image-dataset",
+              "show-attend-and-tell",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -482,12 +705,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow Implementation of Unsupervised Cross-Domain Image Generation ",
+            "homepage": null,
             "id": 77671238,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-06-06T08:24:49Z",
+            "open_issues": 11,
             "owner": "yunjey",
             "repo": "domain-transfer-network",
-            "stars": 862
+            "stars": 862,
+            "topics": [
+              "domain-transfer",
+              "image-generation",
+              "tensorflow",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -498,12 +731,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":speaker: Deep Learning & 3D Convolutional Neural Networks for Speaker Verification",
+            "homepage": null,
             "id": 94718341,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-03-03T19:12:02Z",
+            "open_issues": 7,
             "owner": "astorfi",
             "repo": "3D-convolutional-speaker-recognition",
-            "stars": 793
+            "stars": 793,
+            "topics": [
+              "3d",
+              "convolutional-neural-networks",
+              "deep-learning",
+              "speaker-recognition"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -514,12 +757,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "in progress",
+            "homepage": null,
             "id": 47773990,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-07-27T11:04:42Z",
+            "open_issues": 17,
             "owner": "carpedm20",
             "repo": "lstm-char-cnn-tensorflow",
-            "stars": 788
+            "stars": 788,
+            "topics": [
+              "cnn",
+              "lstm",
+              "nlp",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -530,12 +783,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CNN visualization tool in TensorFlow",
+            "homepage": null,
             "id": 85802370,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-03-16T07:05:13Z",
+            "open_issues": 23,
             "owner": "infocusp",
             "repo": "tf_cnnvis",
-            "stars": 778
+            "stars": 778,
+            "topics": [
+              "cnn",
+              "convolutional-networks",
+              "convolutional-neural-networks",
+              "deepdream",
+              "tensorboard",
+              "tensorflow",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -546,12 +812,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generative Handwriting using LSTM Mixture Density Network with TensorFlow",
+            "homepage": null,
             "id": 47870132,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-02-10T08:17:23Z",
+            "open_issues": 19,
             "owner": "hardmaru",
             "repo": "write-rnn-tensorflow",
-            "stars": 702
+            "stars": 702,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -562,12 +833,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 46280894,
             "language": "Jupyter Notebook",
+            "license": "BSD-2-Clause",
             "last_commit": "2019-10-23T10:03:31Z",
+            "open_issues": 21,
             "owner": "jazzsaxmafia",
             "repo": "show_attend_and_tell.tensorflow",
-            "stars": 502
+            "stars": 502,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -578,12 +854,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 46280894,
             "language": "Jupyter Notebook",
+            "license": "BSD-2-Clause",
             "last_commit": "2019-10-23T10:03:31Z",
+            "open_issues": 21,
             "owner": "jazzsaxmafia",
             "repo": "show_attend_and_tell.tensorflow",
-            "stars": 502
+            "stars": 502,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -594,12 +875,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of  \"A Neural Algorithm of Artistic Style\" by Tensorflow",
+            "homepage": null,
             "id": 47232918,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-27T11:53:35Z",
+            "open_issues": 5,
             "owner": "ckmarkoh",
             "repo": "neuralart_tensorflow",
-            "stars": 492
+            "stars": 492,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -610,12 +896,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation",
+            "homepage": null,
             "id": 48688878,
             "language": null,
+            "license": "MIT",
             "last_commit": "2018-12-18T23:07:47Z",
+            "open_issues": 5,
             "owner": "samjabrahams",
             "repo": "tensorflow-white-paper-notes",
-            "stars": 432
+            "stars": 432,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -626,12 +917,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tensorflow implementation of \"Learning Deep Features for Discriminative Localization\"",
+            "homepage": null,
             "id": 55826596,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2017-07-29T16:58:03Z",
+            "open_issues": 12,
             "owner": "jazzsaxmafia",
             "repo": "Weakly_detector",
-            "stars": 361
+            "stars": 361,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -642,12 +938,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search and filter videos based on objects that appear in them using convolutional neural networks",
+            "homepage": null,
             "id": 39863341,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2016-05-11T16:26:37Z",
+            "open_issues": 1,
             "owner": "agermanidis",
             "repo": "thingscoop",
-            "stars": 358
+            "stars": 358,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -658,12 +959,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "End-To-End Memory Network using Tensorflow",
+            "homepage": null,
             "id": 47137092,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-02-17T16:46:57Z",
+            "open_issues": 11,
             "owner": "domluna",
             "repo": "memn2n",
-            "stars": 340
+            "stars": 340,
+            "topics": [
+              "memory-networks",
+              "nlp",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -674,12 +984,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tensorflow implementation of an HMM layer",
+            "homepage": null,
             "id": 53764752,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2018-01-23T18:11:27Z",
+            "open_issues": 4,
             "owner": "dwiel",
             "repo": "tensorflow_hmm",
-            "stars": 285
+            "stars": 285,
+            "topics": [
+              "hmm",
+              "tensorflow",
+              "tensorflow-hmm",
+              "viterbi"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -690,12 +1010,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural machine translation between the writings of Shakespeare and modern English using TensorFlow",
+            "homepage": null,
             "id": 46326434,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-11T00:42:28Z",
+            "open_issues": 4,
             "owner": "tokestermw",
             "repo": "tensorflow-shakespeare",
-            "stars": 249
+            "stars": 249,
+            "topics": [
+              "neural-machine-translation",
+              "seq2seq",
+              "shakespeare",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -706,12 +1036,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TensorFlow implementation of the Mnemonic Descent Method.",
+            "homepage": null,
             "id": 62345795,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-05-21T17:31:33Z",
+            "open_issues": 5,
             "owner": "trigeorgis",
             "repo": "mdm",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "deep-learning",
+              "face",
+              "face-alignment",
+              "mdm",
+              "menpo",
+              "pretrained-models",
+              "snapchat",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -722,12 +1066,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple convolutional highway networks using TensorFlow.",
+            "homepage": "https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa",
             "id": 54411676,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-09-18T22:27:07Z",
+            "open_issues": 0,
             "owner": "fomorians",
             "repo": "highway-cnn",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -738,12 +1087,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is implementation of AlexNet(2012) with 3D Convolution on TensorFlow (AlexNet 3D).",
+            "homepage": null,
             "id": 80007899,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-02-09T14:33:45Z",
+            "open_issues": 3,
             "owner": "denti",
             "repo": "AlexNet3D",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -754,12 +1108,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tensorflow Implementation of \"Generating Videos with Scene Dynamics\"",
+            "homepage": null,
             "id": 89998470,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-03-20T13:12:43Z",
+            "open_issues": 2,
             "owner": "Singularity42",
             "repo": "VGAN-Tensorflow",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -770,12 +1129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamic Capacity Networks using Tensorflow",
+            "homepage": null,
             "id": 58010782,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-05-03T10:29:52Z",
+            "open_issues": 0,
             "owner": "jazzsaxmafia",
             "repo": "dcn.tf",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         }
@@ -792,12 +1156,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Magenta: Music and Art Generation with Machine Intelligence",
+            "homepage": null,
             "id": 58157629,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-06T01:17:54Z",
+            "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19807
+            "stars": 19807,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -808,12 +1177,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tensorflow implementation of 'YOLO : Real-Time Object Detection'",
+            "homepage": null,
             "id": 51731516,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2019-01-05T07:57:00Z",
+            "open_issues": 38,
             "owner": "gliese581gg",
             "repo": "YOLO_tensorflow",
-            "stars": 1708
+            "stars": 1708,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -824,12 +1198,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time object detection on Android using the YOLO network with TensorFlow",
+            "homepage": null,
             "id": 75443905,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-15T11:34:11Z",
+            "open_issues": 13,
             "owner": "natanielruiz",
             "repo": "android-yolo",
-            "stars": 691
+            "stars": 691,
+            "topics": [
+              "android",
+              "android-device",
+              "android-studio",
+              "apk",
+              "demo",
+              "detection",
+              "object-detection",
+              "pascal-voc",
+              "prediction",
+              "tensorflow",
+              "tensorflow-yolo",
+              "yolo"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         }
@@ -846,12 +1238,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Open Source Machine Learning Framework for Everyone",
+            "homepage": "https://tensorflow.org",
             "id": 45717250,
             "language": "C++",
-            "last_commit": "2026-08-28T21:10:44Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:32:06Z",
+            "open_issues": 2960,
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197766
+            "stars": 197768,
+            "topics": [
+              "deep-learning",
+              "deep-neural-networks",
+              "distributed",
+              "machine-learning",
+              "ml",
+              "neural-network",
+              "python",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -862,12 +1268,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Models and examples built with TensorFlow",
+            "homepage": null,
             "id": 51117837,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:30:48Z",
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659
+            "stars": 77658,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -878,12 +1289,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Models and examples built with TensorFlow",
+            "homepage": null,
             "id": 51117837,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:30:48Z",
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659
+            "stars": 77658,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -894,12 +1310,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow-based neural network library",
+            "homepage": "https://sonnet.dev/",
             "id": 87067212,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-07T22:31:42Z",
+            "open_issues": 43,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9961
+            "stars": 9960,
+            "topics": [
+              "artificial-intelligence",
+              "deep-learning",
+              "machine-learning",
+              "neural-networks",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -910,12 +1337,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep learning library featuring a higher-level API for TensorFlow.",
+            "homepage": "http://tflearn.org",
             "id": 55147386,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-06T11:34:20Z",
+            "open_issues": 579,
             "owner": "tflearn",
             "repo": "tflearn",
-            "stars": 9576
+            "stars": 9576,
+            "topics": [
+              "data-science",
+              "deep-learning",
+              "machine-learning",
+              "neural-network",
+              "tensorflow",
+              "tflearn"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -926,12 +1365,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility",
+            "homepage": null,
             "id": 48593532,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-06T00:30:36Z",
+            "open_issues": 14,
             "owner": "tensorpack",
             "repo": "tensorpack",
-            "stars": 6286
+            "stars": 6286,
+            "topics": [
+              "deep-learning",
+              "machine-learning",
+              "neural-networks",
+              "reinforcement-learning",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -942,12 +1392,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run Keras models in the browser, with GPU support using WebGL",
+            "homepage": "https://transcranial.github.io/keras-js",
             "id": 69674683,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-06-15T12:11:24Z",
+            "open_issues": 81,
             "owner": "transcranial",
             "repo": "keras-js",
-            "stars": 4963
+            "stars": 4963,
+            "topics": [
+              "deep-learning",
+              "javascript",
+              "keras",
+              "machine-learning",
+              "neural-networks",
+              "tensorflow",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -958,12 +1421,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlowOnSpark brings TensorFlow programs to Apache Spark clusters.",
+            "homepage": null,
             "id": 79584587,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-10T10:34:11Z",
+            "open_issues": 16,
             "owner": "yahoo",
             "repo": "TensorFlowOnSpark",
-            "stars": 3845
+            "stars": 3845,
+            "topics": [
+              "cluster",
+              "featured",
+              "machine-learning",
+              "python",
+              "scala",
+              "spark",
+              "tensorflow",
+              "yahoo"
+            ]
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -974,12 +1451,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Caffe models in TensorFlow",
+            "homepage": null,
             "id": 45893011,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2019-07-18T13:35:38Z",
+            "open_issues": 120,
             "owner": "ethereon",
             "repo": "caffe-tensorflow",
-            "stars": 2786
+            "stars": 2786,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -990,12 +1472,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tensorflow for ruby",
+            "homepage": null,
             "id": 61302869,
             "language": "Ruby",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-01-10T15:41:18Z",
+            "open_issues": 15,
             "owner": "somaticio",
             "repo": "tensorflow.rb",
-            "stars": 832
+            "stars": 832,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -1006,12 +1493,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[DEPRECATED] Tensorflow wrapper for DataFrames on Apache Spark",
+            "homepage": null,
             "id": 53160128,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-30T20:59:38Z",
+            "open_issues": 54,
             "owner": "databricks",
             "repo": "tensorframes",
-            "stars": 744
+            "stars": 744,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         },
@@ -1022,12 +1514,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 79344148,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-03-24T08:14:42Z",
+            "open_issues": 0,
             "owner": "welschma",
             "repo": "NNFlow",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         }
@@ -1044,12 +1541,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo contains materials for use in a TensorFlow workshop.",
+            "homepage": null,
             "id": 58142460,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2018-08-16T21:01:17Z",
+            "open_issues": 10,
             "owner": "amygdala",
             "repo": "tensorflow-workshop",
-            "stars": 629
+            "stars": 629,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         }
@@ -1066,12 +1568,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Models and examples built with TensorFlow",
+            "homepage": null,
             "id": 51117837,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:30:48Z",
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659
+            "stars": 77658,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
         }
@@ -1080,15 +1587,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:12:11.898Z",
+    "last_updated": "2026-08-29T04:32:06.191Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，公众号：磐创AI，微信群二维码：http://www.tensorflownews.com/",
+      "homepage": "http://panchuang.net/",
       "id": 102089807,
       "language": "Python",
+      "license": "Apache-2.0",
       "last_commit": "2026-07-28T08:43:59Z",
+      "open_issues": 0,
       "owner": "fendouai",
       "repo": "Awesome-TensorFlow-Chinese",
-      "stars": 1381
+      "stars": 1381,
+      "topics": [
+        "awesome",
+        "deep-learning",
+        "google-tensorflow",
+        "machine-learning",
+        "tensorflow",
+        "tensorflow-chinese",
+        "tensorflow-tutorials"
+      ]
     },
     "original_repository_sha": "fe076719349c1dd15ed61ddfeb5a8fab02f2bbe8",
     "enhanced_repository": "enhansome/enhansome-Awesome-TensorFlow-Chinese",
