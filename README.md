@@ -15,7 +15,7 @@ TensorFlow 中文社区
 
 很多内容参考下面这个英文项目，收集了中文资源:
 
-> Inspired by <https://github.com/jtoy/awesome-tensorflow> ⭐ 17,549 | 🐛 34 | 📅 2026-02-08
+> Inspired by <https://github.com/jtoy/awesome-tensorflow> ⭐ 17,550 | 🐛 34 | 📅 2026-02-08
 
 ## 推荐产品
 
@@ -105,7 +105,7 @@ Deep Learning 中文翻译
 
 ## 教程
 
-* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,734 | 🐛 228 | 🌐 Jupyter Notebook | 📅 2024-07-26 - 针对初学者的 TensorFlow 教程和代码
+* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,732 | 🐛 228 | 🌐 Jupyter Notebook | 📅 2024-07-26 - 针对初学者的 TensorFlow 教程和代码
 * [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow) ⭐ 8,585 | 🐛 0 | 📅 2020-10-22 - Tensorflow howtos and best practices. Covers the basics as well as advanced topics.
 * [TensorFlow Tutorial](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,028 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20 - 基于谷歌的 TensorFlow 框架介绍深度学习
 * [TensorFlow Tutorial](https://github.com/pkmital/tensorflow_tutorials) ⭐ 5,668 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2021-12-11 - 从基础知识到有趣的 tensorflow 应用
@@ -125,9 +125,9 @@ Deep Learning 中文翻译
 
 * [Sentence Classification with CNN](https://github.com/dennybritz/cnn-text-classification-tf) ⭐ 5,685 | 🐛 110 | 🌐 Python | 📅 2024-04-15 - TensorFlow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 
-* [Neural Style](https://github.com/anishathalye/neural-style) ⭐ 5,544 | 🐛 6 | 🌐 Python | 📅 2026-04-18 - An implementation of neural style
+* [Neural Style](https://github.com/anishathalye/neural-style) ⭐ 5,546 | 🐛 6 | 🌐 Python | 📅 2026-04-18 - An implementation of neural style
 
-* [Wavenet](https://github.com/ibab/tensorflow-wavenet) ⭐ 5,428 | 🐛 176 | 🌐 Python | 📅 2023-07-12 - This is a TensorFlow implementation of the [WaveNet generative neural network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) for audio generation.
+* [Wavenet](https://github.com/ibab/tensorflow-wavenet) ⭐ 5,429 | 🐛 176 | 🌐 Python | 📅 2023-07-12 - This is a TensorFlow implementation of the [WaveNet generative neural network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) for audio generation.
 
 * [Colornet - Neural Network to colorize grayscale images](https://github.com/pavelgonchar/colornet) ⭐ 3,552 | 🐛 14 | 🌐 Python | 📅 2020-04-21 - Neural Network to colorize grayscale images
 
@@ -195,7 +195,7 @@ Deep Learning 中文翻译
 
 ## 库
 
-* [tf.contrib.learn](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) ⭐ 197,773 | 🐛 2,965 | 🌐 C++ | 📅 2026-08-29 - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
+* [tf.contrib.learn](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) ⭐ 198,052 | 🐛 2,984 | 🌐 C++ | 📅 2026-08-30 - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
 * [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) ⭐ 77,659 | 🐛 1,272 | 🌐 Python | 📅 2026-08-28 - High-level library for defining models
 * [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,659 | 🐛 1,272 | 🌐 Python | 📅 2026-08-28 - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
 * [Sonnet](https://github.com/deepmind/sonnet) ⭐ 9,960 | 🐛 43 | 🌐 Python | 📅 2026-07-07 - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
@@ -274,4 +274,4 @@ Deep Learning 中文翻译
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
