@@ -23,7 +23,7 @@
                     "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77659,
+                    "stars": 77660,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:12:11.898Z"
@@ -51,7 +51,7 @@
                     "open_issues": 428,
                     "owner": "magenta",
                     "repo": "magenta",
-                    "stars": 19805,
+                    "stars": 19804,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:12:11.898Z"
@@ -79,7 +79,7 @@
                     "open_issues": 273,
                     "owner": "tensorflow",
                     "repo": "nmt",
-                    "stars": 6454,
+                    "stars": 6453,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:12:11.898Z"
@@ -116,7 +116,7 @@
             "open_issues": 228,
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43732,
+            "stars": 43730,
             "topics": [
               "deep-learning",
               "examples",
@@ -144,7 +144,7 @@
             "open_issues": 0,
             "owner": "vahidk",
             "repo": "EffectiveTensorflow",
-            "stars": 8585,
+            "stars": 8584,
             "topics": [
               "deep-learning",
               "ebook",
@@ -458,7 +458,7 @@
             "open_issues": 6,
             "owner": "anishathalye",
             "repo": "neural-style",
-            "stars": 5546,
+            "stars": 5547,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -500,7 +500,7 @@
             "open_issues": 14,
             "owner": "pavelgonchar",
             "repo": "colornet",
-            "stars": 3552,
+            "stars": 3551,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1165,7 +1165,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19805,
+            "stars": 19804,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1243,11 +1243,11 @@
             "id": 45717250,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T14:51:16Z",
-            "open_issues": 2984,
+            "last_commit": "2026-08-31T17:37:01Z",
+            "open_issues": 2986,
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 198052,
+            "stars": 198096,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -1277,7 +1277,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659,
+            "stars": 77660,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1298,7 +1298,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659,
+            "stars": 77660,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1319,7 +1319,7 @@
             "open_issues": 43,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9960,
+            "stars": 9962,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1577,7 +1577,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659,
+            "stars": 77660,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1587,7 +1587,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:54:30.939Z",
+    "last_updated": "2026-08-31T17:39:53.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，公众号：磐创AI，微信群二维码：http://www.tensorflownews.com/",
