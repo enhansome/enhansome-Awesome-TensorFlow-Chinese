@@ -116,7 +116,7 @@
             "open_issues": 229,
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43738,
+            "stars": 43739,
             "topics": [
               "deep-learning",
               "examples",
@@ -171,7 +171,7 @@
             "open_issues": 16,
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
-            "stars": 6027,
+            "stars": 6028,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -192,7 +192,7 @@
             "open_issues": 10,
             "owner": "pkmital",
             "repo": "tensorflow_tutorials",
-            "stars": 5668,
+            "stars": 5669,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1243,11 +1243,11 @@
             "id": 45717250,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T14:30:01Z",
-            "open_issues": 3108,
+            "last_commit": "2026-09-12T03:11:50Z",
+            "open_issues": 3110,
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 199708,
+            "stars": 199727,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -1587,7 +1587,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T14:31:12.051Z",
+    "last_updated": "2026-09-12T13:40:10.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，公众号：磐创AI，微信群二维码：http://www.tensorflownews.com/",
