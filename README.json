@@ -51,7 +51,7 @@
                     "open_issues": 428,
                     "owner": "magenta",
                     "repo": "magenta",
-                    "stars": 19798,
+                    "stars": 19799,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:12:11.898Z"
@@ -144,7 +144,7 @@
             "open_issues": 1,
             "owner": "vahidk",
             "repo": "EffectiveTensorflow",
-            "stars": 8583,
+            "stars": 8584,
             "topics": [
               "deep-learning",
               "ebook",
@@ -663,7 +663,7 @@
             "open_issues": 11,
             "owner": "carpedm20",
             "repo": "NTM-tensorflow",
-            "stars": 1047,
+            "stars": 1046,
             "topics": [
               "neural-turing-machines",
               "tensorflow"
@@ -1165,7 +1165,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19798,
+            "stars": 19799,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1243,11 +1243,11 @@
             "id": 45717250,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T03:11:50Z",
-            "open_issues": 3110,
+            "last_commit": "2026-09-13T13:40:11Z",
+            "open_issues": 3112,
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 199727,
+            "stars": 199877,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -1319,7 +1319,7 @@
             "open_issues": 43,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9967,
+            "stars": 9968,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1587,7 +1587,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:40:10.274Z",
+    "last_updated": "2026-09-13T14:30:16.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，公众号：磐创AI，微信群二维码：http://www.tensorflownews.com/",

@@ -19,7 +19,7 @@ TensorFlow 中文社区
 
 ## 推荐产品
 
-* [Lynote AI Humanzier](https://lynote.ai/ai-humanizer) - Best AI Humanizer Free Online Tools（[GitHub](https://github.com/lynote-ai/humanize-text) ⭐ 1,610 | 🐛 15 | 🌐 Python | 📅 2026-09-09）
+* [Lynote AI Humanzier](https://lynote.ai/ai-humanizer) - Best AI Humanizer Free Online Tools（[GitHub](https://github.com/lynote-ai/humanize-text) ⭐ 1,613 | 🐛 15 | 🌐 Python | 📅 2026-09-09）
 
 ## 官方网站
 
@@ -106,7 +106,7 @@ Deep Learning 中文翻译
 ## 教程
 
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,739 | 🐛 229 | 🌐 Jupyter Notebook | 📅 2024-07-26 - 针对初学者的 TensorFlow 教程和代码
-* [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow) ⭐ 8,583 | 🐛 1 | 📅 2020-10-22 - Tensorflow howtos and best practices. Covers the basics as well as advanced topics.
+* [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow) ⭐ 8,584 | 🐛 1 | 📅 2020-10-22 - Tensorflow howtos and best practices. Covers the basics as well as advanced topics.
 * [TensorFlow Tutorial](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,028 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20 - 基于谷歌的 TensorFlow 框架介绍深度学习
 * [TensorFlow Tutorial](https://github.com/pkmital/tensorflow_tutorials) ⭐ 5,669 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2021-12-11 - 从基础知识到有趣的 tensorflow 应用
 * [TensorFlow World](https://github.com/astorfi/TensorFlow-World) ⭐ 4,487 | 🐛 3 | 🌐 Python | 📅 2020-12-23 - Concise and ready-to-use TensorFlow tutorials with detailed documentation are provided.
@@ -143,7 +143,7 @@ Deep Learning 中文翻译
 
 * [Pretty Tensor](https://github.com/google/prettytensor) ⚠️ Archived - Pretty Tensor provides a high level builder API
 
-* [Neural Turing Machine in TensorFlow](https://github.com/carpedm20/NTM-tensorflow) ⭐ 1,047 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2017-05-18 - implementation of Neural Turing Machine
+* [Neural Turing Machine in TensorFlow](https://github.com/carpedm20/NTM-tensorflow) ⭐ 1,046 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2017-05-18 - implementation of Neural Turing Machine
 
 * [Show, Attend and Tell](https://github.com/yunjey/show_attend_and_tell) ⭐ 907 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2018-07-28 - Attention Based Image Caption Generator
 
@@ -195,10 +195,10 @@ Deep Learning 中文翻译
 
 ## 库
 
-* [tf.contrib.learn](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) ⭐ 199,727 | 🐛 3,110 | 🌐 C++ | 📅 2026-09-12 - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
+* [tf.contrib.learn](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) ⭐ 199,877 | 🐛 3,112 | 🌐 C++ | 📅 2026-09-13 - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
 * [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) ⭐ 77,660 | 🐛 1,274 | 🌐 Python | 📅 2026-09-10 - High-level library for defining models
 * [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,660 | 🐛 1,274 | 🌐 Python | 📅 2026-09-10 - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
-* [Sonnet](https://github.com/deepmind/sonnet) ⭐ 9,967 | 🐛 43 | 🌐 Python | 📅 2026-07-07 - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
+* [Sonnet](https://github.com/deepmind/sonnet) ⭐ 9,968 | 🐛 43 | 🌐 Python | 📅 2026-07-07 - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
 * [tflearn](https://github.com/tflearn/tflearn) ⭐ 9,576 | 🐛 579 | 🌐 Python | 📅 2024-05-06 - Deep learning library featuring a higher-level API
 * [tensorpack](https://github.com/ppwwyyxx/tensorpack) ⭐ 6,283 | 🐛 14 | 🌐 Python | 📅 2023-08-06 - Neural Network Toolbox on TensorFlow focusing on training speed and on large datasets.
 * [keras-js](https://github.com/transcranial/keras-js) ⭐ 4,964 | 🐛 81 | 🌐 JavaScript | 📅 2022-06-15 - Run Keras models (tensorflow backend) in the browser, with GPU support
@@ -274,4 +274,4 @@ Deep Learning 中文翻译
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
