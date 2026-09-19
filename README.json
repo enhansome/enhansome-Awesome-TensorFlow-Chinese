@@ -144,7 +144,7 @@
             "open_issues": 1,
             "owner": "vahidk",
             "repo": "EffectiveTensorflow",
-            "stars": 8582,
+            "stars": 8581,
             "topics": [
               "deep-learning",
               "ebook",
@@ -241,7 +241,7 @@
             "open_issues": 22,
             "owner": "guillaume-chevalier",
             "repo": "LSTM-Human-Activity-Recognition",
-            "stars": 3483,
+            "stars": 3484,
             "topics": [
               "activity-recognition",
               "deep-learning",
@@ -573,7 +573,7 @@
             "open_issues": 39,
             "owner": "devsisters",
             "repo": "DQN-tensorflow",
-            "stars": 2583,
+            "stars": 2582,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -766,7 +766,7 @@
             "open_issues": 17,
             "owner": "carpedm20",
             "repo": "lstm-char-cnn-tensorflow",
-            "stars": 788,
+            "stars": 787,
             "topics": [
               "cnn",
               "lstm",
@@ -1243,11 +1243,11 @@
             "id": 45717250,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T14:32:01Z",
-            "open_issues": 3181,
+            "last_commit": "2026-09-19T12:06:19Z",
+            "open_issues": 3190,
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 200163,
+            "stars": 200182,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -1319,7 +1319,7 @@
             "open_issues": 44,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9970,
+            "stars": 9971,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1587,7 +1587,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T14:34:12.699Z",
+    "last_updated": "2026-09-19T13:57:06.960Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，公众号：磐创AI，微信群二维码：http://www.tensorflownews.com/",
