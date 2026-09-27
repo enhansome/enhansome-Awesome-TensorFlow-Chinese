@@ -23,7 +23,7 @@
                     "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77653,
+                    "stars": 77654,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:12:11.898Z"
@@ -213,7 +213,7 @@
             "open_issues": 3,
             "owner": "astorfi",
             "repo": "TensorFlow-World",
-            "stars": 4487,
+            "stars": 4488,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -458,7 +458,7 @@
             "open_issues": 6,
             "owner": "anishathalye",
             "repo": "neural-style",
-            "stars": 5549,
+            "stars": 5548,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -547,7 +547,7 @@
             "open_issues": 93,
             "owner": "Conchylicultor",
             "repo": "DeepQA",
-            "stars": 2909,
+            "stars": 2908,
             "topics": [
               "chatbot",
               "deep-learning",
@@ -594,7 +594,7 @@
             "open_issues": 7,
             "owner": "astorfi",
             "repo": "lip-reading-deeplearning",
-            "stars": 1901,
+            "stars": 1902,
             "topics": [
               "3d-convolutional-network",
               "computer-vision",
@@ -663,7 +663,7 @@
             "open_issues": 11,
             "owner": "carpedm20",
             "repo": "NTM-tensorflow",
-            "stars": 1046,
+            "stars": 1047,
             "topics": [
               "neural-turing-machines",
               "tensorflow"
@@ -740,7 +740,7 @@
             "open_issues": 7,
             "owner": "astorfi",
             "repo": "3D-convolutional-speaker-recognition",
-            "stars": 794,
+            "stars": 795,
             "topics": [
               "3d",
               "convolutional-neural-networks",
@@ -1243,11 +1243,11 @@
             "id": 45717250,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T14:07:03Z",
-            "open_issues": 3336,
+            "last_commit": "2026-09-27T14:46:18Z",
+            "open_issues": 3368,
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 200366,
+            "stars": 200553,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -1277,7 +1277,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653,
+            "stars": 77654,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1298,7 +1298,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653,
+            "stars": 77654,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1577,7 +1577,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653,
+            "stars": 77654,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1587,7 +1587,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T14:36:26.157Z",
+    "last_updated": "2026-09-27T15:12:50.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，公众号：磐创AI，微信群二维码：http://www.tensorflownews.com/",
