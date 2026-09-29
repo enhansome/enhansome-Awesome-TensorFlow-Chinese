@@ -19,11 +19,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-23T16:07:15Z",
+                    "last_commit": "2026-09-29T00:07:29Z",
                     "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77652,
+                    "stars": 77653,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:12:11.898Z"
@@ -51,7 +51,7 @@
                     "open_issues": 428,
                     "owner": "magenta",
                     "repo": "magenta",
-                    "stars": 19798,
+                    "stars": 19796,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:12:11.898Z"
@@ -116,7 +116,7 @@
             "open_issues": 229,
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43744,
+            "stars": 43741,
             "topics": [
               "deep-learning",
               "examples",
@@ -171,7 +171,7 @@
             "open_issues": 16,
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
-            "stars": 6028,
+            "stars": 6029,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -192,7 +192,7 @@
             "open_issues": 10,
             "owner": "pkmital",
             "repo": "tensorflow_tutorials",
-            "stars": 5670,
+            "stars": 5671,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -322,7 +322,7 @@
             "open_issues": 9,
             "owner": "guillaume-chevalier",
             "repo": "seq2seq-signal-prediction",
-            "stars": 1081,
+            "stars": 1082,
             "topics": [
               "python",
               "seq2seq",
@@ -573,7 +573,7 @@
             "open_issues": 39,
             "owner": "devsisters",
             "repo": "DQN-tensorflow",
-            "stars": 2585,
+            "stars": 2586,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1165,7 +1165,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19798,
+            "stars": 19796,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1243,11 +1243,11 @@
             "id": 45717250,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T18:12:30Z",
-            "open_issues": 3326,
+            "last_commit": "2026-09-29T16:32:31Z",
+            "open_issues": 3304,
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 200589,
+            "stars": 200619,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -1273,11 +1273,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T16:07:15Z",
+            "last_commit": "2026-09-29T00:07:29Z",
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652,
+            "stars": 77653,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1294,11 +1294,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T16:07:15Z",
+            "last_commit": "2026-09-29T00:07:29Z",
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652,
+            "stars": 77653,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1315,7 +1315,7 @@
             "id": 87067212,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-07T22:31:42Z",
+            "last_commit": "2026-09-29T09:15:06Z",
             "open_issues": 44,
             "owner": "google-deepmind",
             "repo": "sonnet",
@@ -1573,11 +1573,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T16:07:15Z",
+            "last_commit": "2026-09-29T00:07:29Z",
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652,
+            "stars": 77653,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1587,7 +1587,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T18:12:37.017Z",
+    "last_updated": "2026-09-29T16:34:13.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，公众号：磐创AI，微信群二维码：http://www.tensorflownews.com/",
