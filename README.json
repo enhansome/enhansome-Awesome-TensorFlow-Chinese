@@ -1243,11 +1243,11 @@
             "id": 45717250,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T04:18:42Z",
-            "open_issues": 3242,
+            "last_commit": "2026-10-03T14:00:41Z",
+            "open_issues": 3253,
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 200668,
+            "stars": 200677,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -1374,7 +1374,7 @@
             "open_issues": 14,
             "owner": "tensorpack",
             "repo": "tensorpack",
-            "stars": 6285,
+            "stars": 6286,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -1587,7 +1587,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:32:27.370Z",
+    "last_updated": "2026-10-03T14:46:32.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，公众号：磐创AI，微信群二维码：http://www.tensorflownews.com/",
