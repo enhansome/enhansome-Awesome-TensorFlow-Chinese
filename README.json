@@ -23,7 +23,7 @@
                     "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77656,
+                    "stars": 77657,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:12:11.898Z"
@@ -51,7 +51,7 @@
                     "open_issues": 428,
                     "owner": "magenta",
                     "repo": "magenta",
-                    "stars": 19793,
+                    "stars": 19792,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:12:11.898Z"
@@ -116,7 +116,7 @@
             "open_issues": 229,
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43741,
+            "stars": 43739,
             "topics": [
               "deep-learning",
               "examples",
@@ -171,7 +171,7 @@
             "open_issues": 16,
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
-            "stars": 6032,
+            "stars": 6031,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -192,7 +192,7 @@
             "open_issues": 10,
             "owner": "pkmital",
             "repo": "tensorflow_tutorials",
-            "stars": 5674,
+            "stars": 5673,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -210,7 +210,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2020-12-23T00:18:21Z",
-            "open_issues": 3,
+            "open_issues": 7,
             "owner": "astorfi",
             "repo": "TensorFlow-World",
             "stars": 4489,
@@ -437,7 +437,7 @@
             "open_issues": 110,
             "owner": "dennybritz",
             "repo": "cnn-text-classification-tf",
-            "stars": 5686,
+            "stars": 5685,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -547,7 +547,7 @@
             "open_issues": 93,
             "owner": "Conchylicultor",
             "repo": "DeepQA",
-            "stars": 2908,
+            "stars": 2907,
             "topics": [
               "chatbot",
               "deep-learning",
@@ -594,7 +594,7 @@
             "open_issues": 7,
             "owner": "astorfi",
             "repo": "lip-reading-deeplearning",
-            "stars": 1902,
+            "stars": 1903,
             "topics": [
               "3d-convolutional-network",
               "computer-vision",
@@ -1165,7 +1165,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19793,
+            "stars": 19792,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1243,11 +1243,11 @@
             "id": 45717250,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T14:22:20Z",
-            "open_issues": 3274,
+            "last_commit": "2026-10-05T19:11:33Z",
+            "open_issues": 3269,
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 200697,
+            "stars": 200708,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -1277,7 +1277,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77657,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1298,7 +1298,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77657,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1374,7 +1374,7 @@
             "open_issues": 14,
             "owner": "tensorpack",
             "repo": "tensorpack",
-            "stars": 6286,
+            "stars": 6285,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -1577,7 +1577,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77657,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1587,7 +1587,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:26:51.589Z",
+    "last_updated": "2026-10-05T19:20:22.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，公众号：磐创AI，微信群二维码：http://www.tensorflownews.com/",
@@ -1599,7 +1599,7 @@
       "open_issues": 0,
       "owner": "fendouai",
       "repo": "Awesome-TensorFlow-Chinese",
-      "stars": 1384,
+      "stars": 1385,
       "topics": [
         "awesome",
         "deep-learning",
