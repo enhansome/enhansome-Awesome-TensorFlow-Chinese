@@ -19,7 +19,7 @@ TensorFlow 中文社区
 
 ## 推荐产品
 
-* [Lynote AI Humanzier](https://lynote.ai/ai-humanizer) - Best AI Humanizer Free Online Tools（[GitHub](https://github.com/lynote-ai/humanize-text) ⭐ 3,448 | 🐛 38 | 🌐 Python | 📅 2026-10-13）
+* [Lynote AI Humanzier](https://lynote.ai/ai-humanizer) - Best AI Humanizer Free Online Tools（[GitHub](https://github.com/lynote-ai/humanize-text) ⭐ 3,449 | 🐛 38 | 🌐 Python | 📅 2026-10-13）
 
 ## 官方网站
 
@@ -110,7 +110,7 @@ Deep Learning 中文翻译
 * [TensorFlow Tutorial](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,028 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20 - 基于谷歌的 TensorFlow 框架介绍深度学习
 * [TensorFlow Tutorial](https://github.com/pkmital/tensorflow_tutorials) ⭐ 5,671 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2021-12-11 - 从基础知识到有趣的 tensorflow 应用
 * [TensorFlow World](https://github.com/astorfi/TensorFlow-World) ⭐ 4,490 | 🐛 7 | 🌐 Python | 📅 2020-12-23 - Concise and ready-to-use TensorFlow tutorials with detailed documentation are provided.
-* [Classification on time series](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) ⭐ 3,487 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-11-06 - Recurrent Neural Network classification in TensorFlow with LSTM on cellphone sensor data
+* [Classification on time series](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) ⭐ 3,488 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-11-06 - Recurrent Neural Network classification in TensorFlow with LSTM on cellphone sensor data
 * [Sungjoon's TensorFlow-101](https://github.com/sjchoi86/Tensorflow-101) ⭐ 2,590 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2020-03-23 - TensorFlow 教程用 Python 的 Jupyter Notebook
 * [Installing TensorFlow on Raspberry Pi 3](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) ⭐ 2,257 | 🐛 75 | 🌐 Python | 📅 2018-11-08 - TensorFlow compiled and running properly on the Raspberry Pi
 * [Predict time series](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) ⭐ 1,083 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-03-25 - Learn to use a seq2seq model on simple datasets as an introduction to the vast array of possibilities that this architecture offers
@@ -123,7 +123,7 @@ Deep Learning 中文翻译
 
 * [YOLO TensorFlow ++](https://github.com/thtrieu/yolotf) ⭐ 6,141 | 🐛 641 | 🌐 Python | 📅 2023-10-23 - TensorFlow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
 
-* [Sentence Classification with CNN](https://github.com/dennybritz/cnn-text-classification-tf) ⭐ 5,685 | 🐛 110 | 🌐 Python | 📅 2024-04-15 - TensorFlow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
+* [Sentence Classification with CNN](https://github.com/dennybritz/cnn-text-classification-tf) ⭐ 5,686 | 🐛 110 | 🌐 Python | 📅 2024-04-15 - TensorFlow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 
 * [Neural Style](https://github.com/anishathalye/neural-style) ⭐ 5,547 | 🐛 6 | 🌐 Python | 📅 2026-04-18 - An implementation of neural style
 
@@ -135,7 +135,7 @@ Deep Learning 中文翻译
 
 * [Chatbot](https://github.com/Conchylicultor/DeepQA) ⭐ 2,906 | 🐛 93 | 🌐 Python | 📅 2022-12-30 - Implementation of ["A neural conversational model"](http://arxiv.org/abs/1506.05869)
 
-* [DQN-tensorflow](https://github.com/devsisters/DQN-tensorflow) ⭐ 2,589 | 🐛 39 | 🌐 Python | 📅 2019-04-18 - TensorFlow implementation of DeepMind's 'Human-Level Control through Deep Reinforcement Learning' with OpenAI Gym by Devsisters.com
+* [DQN-tensorflow](https://github.com/devsisters/DQN-tensorflow) ⭐ 2,591 | 🐛 39 | 🌐 Python | 📅 2019-04-18 - TensorFlow implementation of DeepMind's 'Human-Level Control through Deep Reinforcement Learning' with OpenAI Gym by Devsisters.com
 
 * [Lip Reading - Cross Audio-Visual Recognition using 3D Architectures in TensorFlow](https://github.com/astorfi/lip-reading-deeplearning) ⭐ 1,904 | 🐛 7 | 🌐 Python | 📅 2022-11-07 - TensorFlow Implementation of ["Cross Audio-Visual Recognition in the Wild Using Deep Learning"](https://arxiv.org/abs/1706.05739) by Torfi et al.
 
@@ -143,7 +143,7 @@ Deep Learning 中文翻译
 
 * [Pretty Tensor](https://github.com/google/prettytensor) ⚠️ Archived - Pretty Tensor provides a high level builder API
 
-* [Neural Turing Machine in TensorFlow](https://github.com/carpedm20/NTM-tensorflow) ⭐ 1,046 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2017-05-18 - implementation of Neural Turing Machine
+* [Neural Turing Machine in TensorFlow](https://github.com/carpedm20/NTM-tensorflow) ⭐ 1,047 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2017-05-18 - implementation of Neural Turing Machine
 
 * [Show, Attend and Tell](https://github.com/yunjey/show_attend_and_tell) ⭐ 908 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2018-07-28 - Attention Based Image Caption Generator
 
@@ -195,13 +195,13 @@ Deep Learning 中文翻译
 
 ## 库
 
-* [tf.contrib.learn](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) ⭐ 201,082 | 🐛 3,406 | 🌐 C++ | 📅 2026-10-18 - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
+* [tf.contrib.learn](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) ⭐ 201,197 | 🐛 3,440 | 🌐 C++ | 📅 2026-10-19 - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
 * [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) ⭐ 77,645 | 🐛 1,274 | 🌐 Python | 📅 2026-10-13 - High-level library for defining models
 * [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,645 | 🐛 1,274 | 🌐 Python | 📅 2026-10-13 - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
-* [Sonnet](https://github.com/deepmind/sonnet) ⭐ 9,975 | 🐛 45 | 🌐 Python | 📅 2026-09-29 - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
-* [tflearn](https://github.com/tflearn/tflearn) ⭐ 9,568 | 🐛 579 | 🌐 Python | 📅 2024-05-06 - Deep learning library featuring a higher-level API
+* [Sonnet](https://github.com/deepmind/sonnet) ⭐ 9,976 | 🐛 45 | 🌐 Python | 📅 2026-09-29 - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
+* [tflearn](https://github.com/tflearn/tflearn) ⭐ 9,569 | 🐛 579 | 🌐 Python | 📅 2024-05-06 - Deep learning library featuring a higher-level API
 * [tensorpack](https://github.com/ppwwyyxx/tensorpack) ⭐ 6,285 | 🐛 14 | 🌐 Python | 📅 2023-08-06 - Neural Network Toolbox on TensorFlow focusing on training speed and on large datasets.
-* [keras-js](https://github.com/transcranial/keras-js) ⭐ 4,964 | 🐛 81 | 🌐 JavaScript | 📅 2022-06-15 - Run Keras models (tensorflow backend) in the browser, with GPU support
+* [keras-js](https://github.com/transcranial/keras-js) ⭐ 4,965 | 🐛 81 | 🌐 JavaScript | 📅 2022-06-15 - Run Keras models (tensorflow backend) in the browser, with GPU support
 * [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark) ⭐ 3,848 | 🐛 16 | 🌐 Python | 📅 2023-07-10 - initiative from Yahoo! to enable distributed TensorFlow with Apache Spark.
 * [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow) ⭐ 2,786 | 🐛 120 | 🌐 Python | 📅 2019-07-18 - Convert Caffe models to TensorFlow format
 * [tensorflow.rb](https://github.com/somaticio/tensorflow.rb) ⭐ 832 | 🐛 15 | 🌐 Ruby | 📅 2022-01-10 - TensorFlow native interface for ruby using SWIG
@@ -274,4 +274,4 @@ Deep Learning 中文翻译
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
