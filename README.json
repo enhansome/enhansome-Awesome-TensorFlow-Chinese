@@ -51,7 +51,7 @@
                     "open_issues": 428,
                     "owner": "magenta",
                     "repo": "magenta",
-                    "stars": 19786,
+                    "stars": 19785,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:12:11.898Z"
@@ -79,7 +79,7 @@
                     "open_issues": 273,
                     "owner": "tensorflow",
                     "repo": "nmt",
-                    "stars": 6453,
+                    "stars": 6454,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1165,7 +1165,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19786,
+            "stars": 19785,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1243,11 +1243,11 @@
             "id": 45717250,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T14:09:17Z",
-            "open_issues": 3402,
+            "last_commit": "2026-10-26T16:41:54Z",
+            "open_issues": 3406,
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 201236,
+            "stars": 201269,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -1374,7 +1374,7 @@
             "open_issues": 14,
             "owner": "tensorpack",
             "repo": "tensorpack",
-            "stars": 6286,
+            "stars": 6287,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -1460,7 +1460,7 @@
             "open_issues": 120,
             "owner": "ethereon",
             "repo": "caffe-tensorflow",
-            "stars": 2786,
+            "stars": 2787,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1587,7 +1587,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T14:27:58.880Z",
+    "last_updated": "2026-10-26T16:50:43.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，公众号：磐创AI，微信群二维码：http://www.tensorflownews.com/",
@@ -1599,7 +1599,7 @@
       "open_issues": 0,
       "owner": "fendouai",
       "repo": "Awesome-TensorFlow-Chinese",
-      "stars": 1384,
+      "stars": 1385,
       "topics": [
         "awesome",
         "deep-learning",
