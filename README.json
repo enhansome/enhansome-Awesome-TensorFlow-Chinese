@@ -19,11 +19,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-29T08:21:25Z",
+                    "last_commit": "2026-10-30T07:24:38Z",
                     "open_issues": 1276,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77643,
+                    "stars": 77641,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:12:11.898Z"
@@ -116,7 +116,7 @@
             "open_issues": 229,
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43744,
+            "stars": 43743,
             "topics": [
               "deep-learning",
               "examples",
@@ -437,7 +437,7 @@
             "open_issues": 110,
             "owner": "dennybritz",
             "repo": "cnn-text-classification-tf",
-            "stars": 5686,
+            "stars": 5687,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -573,7 +573,7 @@
             "open_issues": 39,
             "owner": "devsisters",
             "repo": "DQN-tensorflow",
-            "stars": 2591,
+            "stars": 2592,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -621,7 +621,7 @@
             "open_issues": 13,
             "owner": "trailbehind",
             "repo": "DeepOSM",
-            "stars": 1329,
+            "stars": 1330,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -642,7 +642,7 @@
             "open_issues": 28,
             "owner": "google",
             "repo": "prettytensor",
-            "stars": 1225,
+            "stars": 1226,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1243,11 +1243,11 @@
             "id": 45717250,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T16:56:32Z",
-            "open_issues": 3439,
+            "last_commit": "2026-10-30T16:43:37Z",
+            "open_issues": 3457,
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 201298,
+            "stars": 201222,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -1273,11 +1273,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T08:21:25Z",
+            "last_commit": "2026-10-30T07:24:38Z",
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77643,
+            "stars": 77641,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1294,11 +1294,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T08:21:25Z",
+            "last_commit": "2026-10-30T07:24:38Z",
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77643,
+            "stars": 77641,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1573,11 +1573,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T08:21:25Z",
+            "last_commit": "2026-10-30T07:24:38Z",
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77643,
+            "stars": 77641,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1587,7 +1587,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T17:00:15.405Z",
+    "last_updated": "2026-10-30T16:45:14.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，公众号：磐创AI，微信群二维码：http://www.tensorflownews.com/",
@@ -1599,7 +1599,7 @@
       "open_issues": 0,
       "owner": "fendouai",
       "repo": "Awesome-TensorFlow-Chinese",
-      "stars": 1385,
+      "stars": 1386,
       "topics": [
         "awesome",
         "deep-learning",
