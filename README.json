@@ -144,7 +144,7 @@
             "open_issues": 1,
             "owner": "vahidk",
             "repo": "EffectiveTensorflow",
-            "stars": 8576,
+            "stars": 8575,
             "topics": [
               "deep-learning",
               "ebook",
@@ -171,7 +171,7 @@
             "open_issues": 16,
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
-            "stars": 6034,
+            "stars": 6035,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -547,7 +547,7 @@
             "open_issues": 93,
             "owner": "Conchylicultor",
             "repo": "DeepQA",
-            "stars": 2906,
+            "stars": 2907,
             "topics": [
               "chatbot",
               "deep-learning",
@@ -1243,11 +1243,11 @@
             "id": 45717250,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T16:43:37Z",
-            "open_issues": 3457,
+            "last_commit": "2026-10-31T15:03:23Z",
+            "open_issues": 3466,
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 201222,
+            "stars": 201245,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -1587,7 +1587,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T16:45:14.346Z",
+    "last_updated": "2026-10-31T15:47:54.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，公众号：磐创AI，微信群二维码：http://www.tensorflownews.com/",
