@@ -19,7 +19,7 @@ TensorFlow 中文社区
 
 ## 推荐产品
 
-* [Lynote AI Humanzier](https://lynote.ai/ai-humanizer) - Best AI Humanizer Free Online Tools（[GitHub](https://github.com/lynote-ai/humanize-text) ⭐ 3,478 | 🐛 38 | 🌐 Python | 📅 2026-10-22）
+* [Lynote AI Humanzier](https://lynote.ai/ai-humanizer) - Best AI Humanizer Free Online Tools（[GitHub](https://github.com/lynote-ai/humanize-text) ⭐ 3,479 | 🐛 39 | 🌐 Python | 📅 2026-10-22）
 
 ## 官方网站
 
@@ -73,7 +73,7 @@ TensorFlow 中文社区
 
 #### Models built with TensorFlow
 
-* models:<https://github.com/tensorflow/models> ⭐ 77,637 | 🐛 1,276 | 🌐 Python | 📅 2026-10-30
+* models:<https://github.com/tensorflow/models> ⭐ 77,636 | 🐛 1,276 | 🌐 Python | 📅 2026-11-02
 
 #### Magenta: Music and Art Generation with Machine Intelligence
 
@@ -123,7 +123,7 @@ Deep Learning 中文翻译
 
 * [YOLO TensorFlow ++](https://github.com/thtrieu/yolotf) ⭐ 6,139 | 🐛 641 | 🌐 Python | 📅 2023-10-23 - TensorFlow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
 
-* [Sentence Classification with CNN](https://github.com/dennybritz/cnn-text-classification-tf) ⭐ 5,687 | 🐛 110 | 🌐 Python | 📅 2024-04-15 - TensorFlow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
+* [Sentence Classification with CNN](https://github.com/dennybritz/cnn-text-classification-tf) ⭐ 5,686 | 🐛 110 | 🌐 Python | 📅 2024-04-15 - TensorFlow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 
 * [Neural Style](https://github.com/anishathalye/neural-style) ⭐ 5,547 | 🐛 6 | 🌐 Python | 📅 2026-04-18 - An implementation of neural style
 
@@ -191,13 +191,13 @@ Deep Learning 中文翻译
 
 * [Magenta](https://github.com/tensorflow/magenta) ⚠️ Archived - Research project to advance the state of the art in machine intelligence for music and art generation
 * [YOLO TensorFlow](https://github.com/gliese581gg/YOLO_tensorflow) ⭐ 1,708 | 🐛 38 | 🌐 Python | 📅 2019-01-05 - Implementation of 'YOLO : Real-Time Object Detection'
-* [android-yolo](https://github.com/natanielruiz/android-yolo) ⭐ 691 | 🐛 13 | 🌐 C++ | 📅 2022-10-15 - Real-time object detection on Android using the YOLO network, powered by TensorFlow.
+* [android-yolo](https://github.com/natanielruiz/android-yolo) ⭐ 690 | 🐛 13 | 🌐 C++ | 📅 2022-10-15 - Real-time object detection on Android using the YOLO network, powered by TensorFlow.
 
 ## 库
 
-* [tf.contrib.learn](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) ⭐ 201,272 | 🐛 3,489 | 🌐 C++ | 📅 2026-11-02 - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
-* [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) ⭐ 77,637 | 🐛 1,276 | 🌐 Python | 📅 2026-10-30 - High-level library for defining models
-* [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,637 | 🐛 1,276 | 🌐 Python | 📅 2026-10-30 - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
+* [tf.contrib.learn](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) ⭐ 201,282 | 🐛 3,477 | 🌐 C++ | 📅 2026-11-03 - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
+* [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) ⭐ 77,636 | 🐛 1,276 | 🌐 Python | 📅 2026-11-02 - High-level library for defining models
+* [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,636 | 🐛 1,276 | 🌐 Python | 📅 2026-11-02 - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
 * [Sonnet](https://github.com/deepmind/sonnet) ⭐ 9,974 | 🐛 45 | 🌐 Python | 📅 2026-10-29 - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
 * [tflearn](https://github.com/tflearn/tflearn) ⭐ 9,568 | 🐛 580 | 🌐 Python | 📅 2024-05-06 - Deep learning library featuring a higher-level API
 * [tensorpack](https://github.com/ppwwyyxx/tensorpack) ⭐ 6,284 | 🐛 14 | 🌐 Python | 📅 2023-08-06 - Neural Network Toolbox on TensorFlow focusing on training speed and on large datasets.
@@ -227,7 +227,7 @@ Deep Learning 中文翻译
 
 ## 论文
 
-* [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - This paper describes the models behind [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,637 | 🐛 1,276 | 🌐 Python | 📅 2026-10-30.
+* [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - This paper describes the models behind [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,636 | 🐛 1,276 | 🌐 Python | 📅 2026-11-02.
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - This paper describes the TensorFlow interface and an implementation of that interface that we have built at Google
 * [TF.Learn: TensorFlow's High-level Module for Distributed Machine Learning](https://arxiv.org/abs/1612.04251)
 * [Comparative Study of Deep Learning Software Frameworks](http://arxiv.org/abs/1511.06435) - The study is performed on several types of deep learning architectures and we evaluate the performance of the above frameworks when employed on a single machine for both (multi-threaded) CPU and GPU (Nvidia Titan X) settings
@@ -274,4 +274,4 @@ Deep Learning 中文翻译
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
