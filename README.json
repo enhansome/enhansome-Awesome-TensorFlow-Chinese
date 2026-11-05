@@ -23,7 +23,7 @@
                     "open_issues": 1276,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77634,
+                    "stars": 77635,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:12:11.898Z"
@@ -116,7 +116,7 @@
             "open_issues": 229,
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43742,
+            "stars": 43743,
             "topics": [
               "deep-learning",
               "examples",
@@ -403,7 +403,7 @@
             "open_issues": 641,
             "owner": "thtrieu",
             "repo": "darkflow",
-            "stars": 6138,
+            "stars": 6139,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -1243,11 +1243,11 @@
             "id": 45717250,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T18:00:14Z",
-            "open_issues": 3490,
+            "last_commit": "2026-11-05T18:04:50Z",
+            "open_issues": 3494,
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 201302,
+            "stars": 201314,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -1277,7 +1277,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77634,
+            "stars": 77635,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1298,7 +1298,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77634,
+            "stars": 77635,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1319,7 +1319,7 @@
             "open_issues": 46,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9975,
+            "stars": 9974,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1346,7 +1346,7 @@
             "open_issues": 580,
             "owner": "tflearn",
             "repo": "tflearn",
-            "stars": 9567,
+            "stars": 9566,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1577,7 +1577,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77634,
+            "stars": 77635,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1587,7 +1587,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T18:06:40.206Z",
+    "last_updated": "2026-11-05T18:09:21.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，公众号：磐创AI，微信群二维码：http://www.tensorflownews.com/",
