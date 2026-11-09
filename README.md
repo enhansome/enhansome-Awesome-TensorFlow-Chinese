@@ -19,7 +19,7 @@ TensorFlow 中文社区
 
 ## 推荐产品
 
-* [Lynote AI Humanzier](https://lynote.ai/ai-humanizer) - Best AI Humanizer Free Online Tools（[GitHub](https://github.com/lynote-ai/humanize-text) ⭐ 3,486 | 🐛 39 | 🌐 Python | 📅 2026-10-22）
+* [Lynote AI Humanzier](https://lynote.ai/ai-humanizer) - Best AI Humanizer Free Online Tools（[GitHub](https://github.com/lynote-ai/humanize-text) ⭐ 3,490 | 🐛 39 | 🌐 Python | 📅 2026-10-22）
 
 ## 官方网站
 
@@ -73,7 +73,7 @@ TensorFlow 中文社区
 
 #### Models built with TensorFlow
 
-* models:<https://github.com/tensorflow/models> ⭐ 77,635 | 🐛 1,276 | 🌐 Python | 📅 2026-11-02
+* models:<https://github.com/tensorflow/models> ⭐ 77,634 | 🐛 1,274 | 🌐 Python | 📅 2026-11-02
 
 #### Magenta: Music and Art Generation with Machine Intelligence
 
@@ -105,10 +105,10 @@ Deep Learning 中文翻译
 
 ## 教程
 
-* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,739 | 🐛 229 | 🌐 Jupyter Notebook | 📅 2024-07-26 - 针对初学者的 TensorFlow 教程和代码
-* [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow) ⭐ 8,575 | 🐛 1 | 📅 2020-10-22 - Tensorflow howtos and best practices. Covers the basics as well as advanced topics.
+* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,740 | 🐛 229 | 🌐 Jupyter Notebook | 📅 2024-07-26 - 针对初学者的 TensorFlow 教程和代码
+* [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow) ⭐ 8,576 | 🐛 1 | 📅 2020-10-22 - Tensorflow howtos and best practices. Covers the basics as well as advanced topics.
 * [TensorFlow Tutorial](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,036 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20 - 基于谷歌的 TensorFlow 框架介绍深度学习
-* [TensorFlow Tutorial](https://github.com/pkmital/tensorflow_tutorials) ⭐ 5,670 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2021-12-11 - 从基础知识到有趣的 tensorflow 应用
+* [TensorFlow Tutorial](https://github.com/pkmital/tensorflow_tutorials) ⭐ 5,667 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2021-12-11 - 从基础知识到有趣的 tensorflow 应用
 * [TensorFlow World](https://github.com/astorfi/TensorFlow-World) ⭐ 4,485 | 🐛 7 | 🌐 Python | 📅 2020-12-23 - Concise and ready-to-use TensorFlow tutorials with detailed documentation are provided.
 * [Classification on time series](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) ⭐ 3,490 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-11-06 - Recurrent Neural Network classification in TensorFlow with LSTM on cellphone sensor data
 * [Sungjoon's TensorFlow-101](https://github.com/sjchoi86/Tensorflow-101) ⭐ 2,589 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2020-03-23 - TensorFlow 教程用 Python 的 Jupyter Notebook
@@ -123,7 +123,7 @@ Deep Learning 中文翻译
 
 * [YOLO TensorFlow ++](https://github.com/thtrieu/yolotf) ⭐ 6,139 | 🐛 641 | 🌐 Python | 📅 2023-10-23 - TensorFlow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
 
-* [Sentence Classification with CNN](https://github.com/dennybritz/cnn-text-classification-tf) ⭐ 5,686 | 🐛 110 | 🌐 Python | 📅 2024-04-15 - TensorFlow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
+* [Sentence Classification with CNN](https://github.com/dennybritz/cnn-text-classification-tf) ⭐ 5,685 | 🐛 110 | 🌐 Python | 📅 2024-04-15 - TensorFlow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 
 * [Neural Style](https://github.com/anishathalye/neural-style) ⭐ 5,546 | 🐛 6 | 🌐 Python | 📅 2026-04-18 - An implementation of neural style
 
@@ -143,7 +143,7 @@ Deep Learning 中文翻译
 
 * [Pretty Tensor](https://github.com/google/prettytensor) ⚠️ Archived - Pretty Tensor provides a high level builder API
 
-* [Neural Turing Machine in TensorFlow](https://github.com/carpedm20/NTM-tensorflow) ⭐ 1,047 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2017-05-18 - implementation of Neural Turing Machine
+* [Neural Turing Machine in TensorFlow](https://github.com/carpedm20/NTM-tensorflow) ⭐ 1,045 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2017-05-18 - implementation of Neural Turing Machine
 
 * [Show, Attend and Tell](https://github.com/yunjey/show_attend_and_tell) ⭐ 908 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2018-07-28 - Attention Based Image Caption Generator
 
@@ -195,11 +195,11 @@ Deep Learning 中文翻译
 
 ## 库
 
-* [tf.contrib.learn](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) ⭐ 201,400 | 🐛 3,534 | 🌐 C++ | 📅 2026-11-08 - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
-* [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) ⭐ 77,635 | 🐛 1,276 | 🌐 Python | 📅 2026-11-02 - High-level library for defining models
-* [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,635 | 🐛 1,276 | 🌐 Python | 📅 2026-11-02 - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
-* [Sonnet](https://github.com/deepmind/sonnet) ⭐ 9,974 | 🐛 46 | 🌐 Python | 📅 2026-11-03 - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
-* [tflearn](https://github.com/tflearn/tflearn) ⭐ 9,564 | 🐛 580 | 🌐 Python | 📅 2024-05-06 - Deep learning library featuring a higher-level API
+* [tf.contrib.learn](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) ⭐ 201,419 | 🐛 3,422 | 🌐 C++ | 📅 2026-11-09 - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
+* [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) ⭐ 77,634 | 🐛 1,274 | 🌐 Python | 📅 2026-11-02 - High-level library for defining models
+* [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,634 | 🐛 1,274 | 🌐 Python | 📅 2026-11-02 - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
+* [Sonnet](https://github.com/deepmind/sonnet) ⭐ 9,973 | 🐛 46 | 🌐 Python | 📅 2026-11-03 - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
+* [tflearn](https://github.com/tflearn/tflearn) ⭐ 9,562 | 🐛 580 | 🌐 Python | 📅 2024-05-06 - Deep learning library featuring a higher-level API
 * [tensorpack](https://github.com/ppwwyyxx/tensorpack) ⭐ 6,282 | 🐛 14 | 🌐 Python | 📅 2023-08-06 - Neural Network Toolbox on TensorFlow focusing on training speed and on large datasets.
 * [keras-js](https://github.com/transcranial/keras-js) ⭐ 4,964 | 🐛 81 | 🌐 JavaScript | 📅 2022-06-15 - Run Keras models (tensorflow backend) in the browser, with GPU support
 * [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark) ⭐ 3,848 | 🐛 16 | 🌐 Python | 📅 2023-07-10 - initiative from Yahoo! to enable distributed TensorFlow with Apache Spark.
@@ -227,7 +227,7 @@ Deep Learning 中文翻译
 
 ## 论文
 
-* [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - This paper describes the models behind [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,635 | 🐛 1,276 | 🌐 Python | 📅 2026-11-02.
+* [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - This paper describes the models behind [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,634 | 🐛 1,274 | 🌐 Python | 📅 2026-11-02.
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - This paper describes the TensorFlow interface and an implementation of that interface that we have built at Google
 * [TF.Learn: TensorFlow's High-level Module for Distributed Machine Learning](https://arxiv.org/abs/1612.04251)
 * [Comparative Study of Deep Learning Software Frameworks](http://arxiv.org/abs/1511.06435) - The study is performed on several types of deep learning architectures and we evaluate the performance of the above frameworks when employed on a single machine for both (multi-threaded) CPU and GPU (Nvidia Titan X) settings
@@ -274,4 +274,4 @@ Deep Learning 中文翻译
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
