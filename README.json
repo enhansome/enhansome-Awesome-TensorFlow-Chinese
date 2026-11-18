@@ -51,7 +51,7 @@
                     "open_issues": 428,
                     "owner": "magenta",
                     "repo": "magenta",
-                    "stars": 19783,
+                    "stars": 19784,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:12:11.898Z"
@@ -116,7 +116,7 @@
             "open_issues": 229,
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43728,
+            "stars": 43730,
             "topics": [
               "deep-learning",
               "examples",
@@ -171,7 +171,7 @@
             "open_issues": 16,
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
-            "stars": 6040,
+            "stars": 6039,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -192,7 +192,7 @@
             "open_issues": 10,
             "owner": "pkmital",
             "repo": "tensorflow_tutorials",
-            "stars": 5669,
+            "stars": 5668,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -272,7 +272,7 @@
             "open_issues": 13,
             "owner": "sjchoi86",
             "repo": "Tensorflow-101",
-            "stars": 2589,
+            "stars": 2588,
             "topics": [
               "convolutional-neural-networks",
               "recurrent-neural-networks",
@@ -403,7 +403,7 @@
             "open_issues": 641,
             "owner": "thtrieu",
             "repo": "darkflow",
-            "stars": 6139,
+            "stars": 6138,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -437,7 +437,7 @@
             "open_issues": 110,
             "owner": "dennybritz",
             "repo": "cnn-text-classification-tf",
-            "stars": 5685,
+            "stars": 5683,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -521,7 +521,7 @@
             "open_issues": 68,
             "owner": "cysmith",
             "repo": "neural-style-tf",
-            "stars": 3104,
+            "stars": 3102,
             "topics": [
               "convolutional-neural-network",
               "deep-learning",
@@ -573,7 +573,7 @@
             "open_issues": 39,
             "owner": "devsisters",
             "repo": "DQN-tensorflow",
-            "stars": 2596,
+            "stars": 2595,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1165,7 +1165,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19783,
+            "stars": 19784,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1243,11 +1243,11 @@
             "id": 45717250,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T19:13:14Z",
-            "open_issues": 3457,
+            "last_commit": "2026-11-18T18:55:28Z",
+            "open_issues": 3465,
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 201784,
+            "stars": 201611,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -1460,7 +1460,7 @@
             "open_issues": 120,
             "owner": "ethereon",
             "repo": "caffe-tensorflow",
-            "stars": 2785,
+            "stars": 2786,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -1587,7 +1587,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T19:15:10.597Z",
+    "last_updated": "2026-11-18T18:55:45.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，公众号：磐创AI，微信群二维码：http://www.tensorflownews.com/",
