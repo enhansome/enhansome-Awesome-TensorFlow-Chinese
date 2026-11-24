@@ -15,11 +15,11 @@ TensorFlow 中文社区
 
 很多内容参考下面这个英文项目，收集了中文资源:
 
-> Inspired by <https://github.com/jtoy/awesome-tensorflow> ⭐ 17,538 | 🐛 34 | 📅 2026-02-08
+> Inspired by <https://github.com/jtoy/awesome-tensorflow> ⭐ 17,536 | 🐛 34 | 📅 2026-02-08
 
 ## 推荐产品
 
-* [Lynote AI Humanzier](https://lynote.ai/ai-humanizer) - Best AI Humanizer Free Online Tools（[GitHub](https://github.com/lynote-ai/humanize-text) ⭐ 3,445 | 🐛 39 | 🌐 Python | 📅 2026-10-22）
+* [Lynote AI Humanzier](https://lynote.ai/ai-humanizer) - Best AI Humanizer Free Online Tools（[GitHub](https://github.com/lynote-ai/humanize-text) ⭐ 3,447 | 🐛 39 | 🌐 Python | 📅 2026-10-22）
 
 ## 官方网站
 
@@ -127,11 +127,11 @@ Deep Learning 中文翻译
 
 * [Neural Style](https://github.com/anishathalye/neural-style) ⭐ 5,545 | 🐛 6 | 🌐 Python | 📅 2026-04-18 - An implementation of neural style
 
-* [Wavenet](https://github.com/ibab/tensorflow-wavenet) ⭐ 5,425 | 🐛 176 | 🌐 Python | 📅 2023-07-12 - This is a TensorFlow implementation of the [WaveNet generative neural network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) for audio generation.
+* [Wavenet](https://github.com/ibab/tensorflow-wavenet) ⭐ 5,424 | 🐛 176 | 🌐 Python | 📅 2023-07-12 - This is a TensorFlow implementation of the [WaveNet generative neural network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) for audio generation.
 
 * [Colornet - Neural Network to colorize grayscale images](https://github.com/pavelgonchar/colornet) ⭐ 3,543 | 🐛 14 | 🌐 Python | 📅 2020-04-21 - Neural Network to colorize grayscale images
 
-* [Neural Style](https://github.com/cysmith/neural-style-tf) ⭐ 3,099 | 🐛 68 | 🌐 Python | 📅 2020-12-24 Implementation of Neural Style
+* [Neural Style](https://github.com/cysmith/neural-style-tf) ⭐ 3,098 | 🐛 68 | 🌐 Python | 📅 2020-12-24 Implementation of Neural Style
 
 * [Chatbot](https://github.com/Conchylicultor/DeepQA) ⭐ 2,904 | 🐛 93 | 🌐 Python | 📅 2022-12-30 - Implementation of ["A neural conversational model"](http://arxiv.org/abs/1506.05869)
 
@@ -195,7 +195,7 @@ Deep Learning 中文翻译
 
 ## 库
 
-* [tf.contrib.learn](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) ⭐ 201,708 | 🐛 3,518 | 🌐 C++ | 📅 2026-11-23 - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
+* [tf.contrib.learn](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) ⭐ 201,750 | 🐛 3,516 | 🌐 C++ | 📅 2026-11-24 - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
 * [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) ⭐ 77,635 | 🐛 1,272 | 🌐 Python | 📅 2026-11-16 - High-level library for defining models
 * [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,635 | 🐛 1,272 | 🌐 Python | 📅 2026-11-16 - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
 * [Sonnet](https://github.com/deepmind/sonnet) ⭐ 9,980 | 🐛 45 | 🌐 Python | 📅 2026-11-03 - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
@@ -274,4 +274,4 @@ Deep Learning 中文翻译
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._

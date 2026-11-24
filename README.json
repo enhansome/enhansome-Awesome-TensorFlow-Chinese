@@ -479,7 +479,7 @@
             "open_issues": 176,
             "owner": "ibab",
             "repo": "tensorflow-wavenet",
-            "stars": 5425,
+            "stars": 5424,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:11.898Z"
@@ -521,7 +521,7 @@
             "open_issues": 68,
             "owner": "cysmith",
             "repo": "neural-style-tf",
-            "stars": 3099,
+            "stars": 3098,
             "topics": [
               "convolutional-neural-network",
               "deep-learning",
@@ -1243,11 +1243,11 @@
             "id": 45717250,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T22:06:25Z",
-            "open_issues": 3518,
+            "last_commit": "2026-11-24T20:39:25Z",
+            "open_issues": 3516,
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 201708,
+            "stars": 201750,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -1587,7 +1587,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T22:07:06.979Z",
+    "last_updated": "2026-11-24T20:43:39.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，公众号：磐创AI，微信群二维码：http://www.tensorflownews.com/",
